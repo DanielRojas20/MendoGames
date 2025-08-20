@@ -7,8 +7,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-08-20 23:28:56 +0000",
+      "minecraft:sparse_jungle": "2025-08-20 23:31:30 +0000",
       "minecraft:river": "2025-08-20 15:23:16 +0000",
-      "minecraft:savanna": "2025-08-20 15:22:41 +0000"
+      "minecraft:lukewarm_ocean": "2025-08-20 23:29:17 +0000",
+      "minecraft:savanna": "2025-08-20 15:22:41 +0000",
+      "minecraft:plains": "2025-08-20 23:29:28 +0000"
     },
     "done": false
   },
@@ -285,6 +289,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-08-20 15:31:37 +0000",
+      "cooked_beef": "2025-08-20 23:33:18 +0000",
       "melon_slice": "2025-08-20 22:58:25 +0000"
     },
     "done": false
@@ -523,6 +528,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-08-20 23:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-08-20 23:30:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-08-20 22:45:58 +0000"
@@ -583,6 +600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-08-20 23:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-08-20 23:00:27 +0000"
@@ -595,9 +618,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-20 23:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-08-20 23:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-08-20 22:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-08-20 23:28:44 +0000"
     },
     "done": true
   },
@@ -613,9 +654,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-08-20 23:31:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-08-20 22:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-08-20 23:31:34 +0000"
     },
     "done": true
   },
@@ -655,6 +708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-08-20 23:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-08-20 22:45:58 +0000"
@@ -667,6 +726,24 @@
       "minecraft:soul_sand_valley": "2025-08-20 23:00:27 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-20 23:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-08-20 23:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-08-20 23:28:44 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
@@ -704,9 +781,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-20 23:31:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-08-20 22:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-08-20 23:30:23 +0000"
     },
     "done": true
   },
@@ -725,6 +814,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-08-20 22:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-20 23:29:57 +0000"
     },
     "done": true
   },
@@ -758,6 +853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-08-20 23:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-08-20 23:00:27 +0000"
@@ -767,6 +868,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-20 23:00:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-08-20 23:31:57 +0000"
     },
     "done": true
   },
@@ -794,6 +901,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-08-20 23:31:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-08-20 23:02:00 +0000"
@@ -809,6 +922,18 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-08-20 22:52:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-08-20 23:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-08-20 23:28:44 +0000"
     },
     "done": true
   },
@@ -866,9 +991,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-08-20 23:31:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:spider": "2025-08-20 23:11:08 +0000"
+      "minecraft:spider": "2025-08-20 23:11:08 +0000",
+      "minecraft:zombie": "2025-08-20 23:23:58 +0000"
     },
     "done": false
   },
@@ -881,6 +1013,12 @@
   "minecraft:recipes/combat/red_harness": {
     "criteria": {
       "has_dried_ghast": "2025-08-20 23:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-20 23:31:57 +0000"
     },
     "done": true
   },
@@ -899,6 +1037,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-08-20 22:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-08-20 23:30:18 +0000"
     },
     "done": true
   },
@@ -923,6 +1067,12 @@
   "minecraft:recipes/combat/green_harness": {
     "criteria": {
       "has_dried_ghast": "2025-08-20 23:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-08-20 23:30:18 +0000"
     },
     "done": true
   },
@@ -956,15 +1106,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-08-20 23:31:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-08-20 23:02:00 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-08-20 23:30:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-08-20 22:57:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-08-20 23:31:57 +0000"
     },
     "done": true
   },
@@ -1010,6 +1178,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-08-20 23:30:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-20 22:49:00 +0000"
@@ -1034,9 +1208,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-08-20 23:31:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-08-20 23:29:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-08-20 22:45:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-20 23:31:57 +0000"
     },
     "done": true
   },
@@ -1046,9 +1238,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-20 23:31:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/light_gray_harness": {
     "criteria": {
       "has_dried_ghast": "2025-08-20 23:03:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-20 23:29:48 +0000"
     },
     "done": true
   },
