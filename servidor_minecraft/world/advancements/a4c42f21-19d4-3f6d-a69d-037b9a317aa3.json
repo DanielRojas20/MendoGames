@@ -8,8 +8,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-08-20 23:54:22 +0000",
+      "minecraft:forest": "2025-08-21 00:57:19 +0000",
+      "minecraft:jungle": "2025-08-21 00:57:42 +0000",
       "minecraft:river": "2025-08-20 22:53:02 +0000",
-      "minecraft:savanna": "2025-08-20 22:31:06 +0000"
+      "minecraft:lukewarm_ocean": "2025-08-21 00:53:36 +0000",
+      "minecraft:savanna": "2025-08-20 22:31:06 +0000",
+      "minecraft:plains": "2025-08-21 00:57:10 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-21 00:54:29 +0000"
     },
     "done": false
   },
@@ -1388,6 +1393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-21 00:50:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-20 22:59:00 +0000"
@@ -1472,6 +1483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-08-21 00:50:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-20 23:45:18 +0000"
@@ -1505,6 +1522,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-20 23:45:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-21 00:50:19 +0000"
     },
     "done": true
   },
@@ -1583,6 +1606,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-08-20 23:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-08-21 00:50:19 +0000"
     },
     "done": true
   },
@@ -1688,15 +1717,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-08-21 00:50:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-21 00:50:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-20 23:45:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-21 00:50:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-08-20 23:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-08-21 00:50:19 +0000"
     },
     "done": true
   },
@@ -1715,6 +1768,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-21 00:29:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-08-21 00:50:19 +0000"
     },
     "done": true
   },
