@@ -22,3 +22,14 @@
 [00:17:21] [Server thread/INFO]: DarkJunior lost connection: Disconnected
 [00:17:21] [Server thread/INFO]: DarkJunior left the game
 [00:17:22] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=129, y=79, z=26} jb{x=129, y=77, z=27}
+[00:21:02] [Server thread/INFO]: deynermonja fell from a high place
+[00:23:04] [Server thread/INFO]: heeenry_ lost connection: Disconnected
+[00:23:04] [Server thread/INFO]: heeenry_ left the game
+[00:24:02] [Server thread/INFO]: heeenry_[/100.78.238.8:52494] logged in with entity id 42183 at (135.45918532061603, 75.0, 94.80136825776097)
+[00:24:02] [Server thread/INFO]: heeenry_ joined the game
+[00:28:32] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=115, y=79, z=144} jb{x=114, y=78, z=144}
+[00:31:52] [Server thread/INFO]: edinson123pro was slain by Zombie
+[00:33:00] [Server thread/INFO]: Villager cuf['Farmer'/11317, l='ServerLevel[world]', x=134.45, y=70.94, z=94.36] died, message: 'Farmer was blown up by Creeper'
+[00:34:47] [Server thread/INFO]: deynermonja was slain by Iron Golem
+[00:35:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=144, y=75, z=67} jb{x=144, y=73, z=69}
+[00:38:17] [Server thread/INFO]: deynermonja has made the advancement [Hot Stuff]

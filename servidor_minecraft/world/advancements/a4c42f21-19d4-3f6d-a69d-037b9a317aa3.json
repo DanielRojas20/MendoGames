@@ -503,6 +503,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-20 22:35:45 +0000",
       "minecraft:phantom": "2025-08-21 00:00:25 +0000",
+      "minecraft:enderman": "2025-08-21 00:36:21 +0000",
       "minecraft:spider": "2025-08-20 22:47:35 +0000",
       "minecraft:zombie": "2025-08-20 22:47:43 +0000",
       "minecraft:creeper": "2025-08-20 22:52:41 +0000"
@@ -676,6 +677,7 @@
       "cooked_porkchop": "2025-08-20 22:55:33 +0000",
       "mutton": "2025-08-20 23:10:28 +0000",
       "bread": "2025-08-20 23:23:40 +0000",
+      "cooked_chicken": "2025-08-21 00:38:22 +0000",
       "cooked_mutton": "2025-08-20 23:41:40 +0000",
       "cooked_beef": "2025-08-20 22:44:04 +0000",
       "melon_slice": "2025-08-20 23:14:51 +0000",
@@ -1217,6 +1219,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-21 00:38:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/gray_harness": {
     "criteria": {
       "has_dried_ghast": "2025-08-20 23:04:56 +0000"
@@ -1356,6 +1364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-21 00:29:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-08-20 22:59:00 +0000"
@@ -1404,6 +1418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-08-21 00:29:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-20 23:26:49 +0000"
@@ -1419,6 +1439,12 @@
   "minecraft:recipes/combat/light_blue_harness": {
     "criteria": {
       "has_dried_ghast": "2025-08-20 23:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-08-21 00:29:56 +0000"
     },
     "done": true
   },
@@ -1500,6 +1526,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-08-21 00:29:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-20 23:45:18 +0000"
@@ -1515,6 +1547,12 @@
   "minecraft:recipes/combat/red_harness": {
     "criteria": {
       "has_dried_ghast": "2025-08-20 23:04:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-21 00:29:56 +0000"
     },
     "done": true
   },
@@ -1569,6 +1607,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-20 22:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-08-21 00:29:56 +0000"
     },
     "done": true
   },
@@ -1653,6 +1697,24 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-08-20 23:01:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-08-21 00:29:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-21 00:29:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-21 00:29:56 +0000"
     },
     "done": true
   },
