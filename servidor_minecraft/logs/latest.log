@@ -92,3 +92,9 @@
 [01:27:41] [Server thread/INFO]: deynermonja lost connection: Disconnected
 [01:27:41] [Server thread/INFO]: deynermonja left the game
 [01:28:11] [Server thread/INFO]: heeenry_ was slain by Zombie
+[01:32:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1522, y=65, z=408} jb{x=-1523, y=63, z=406}
+[01:33:58] [Server thread/INFO]: edinson123pro fell from a high place
+[01:36:35] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1485, y=65, z=397} jb{x=-1485, y=63, z=397}
+[01:36:37] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1486, y=64, z=395} jb{x=-1487, y=63, z=395}
+[01:36:42] [Server thread/INFO]: edinson123pro was slain by Zombie
+[01:37:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1484, y=65, z=382} jb{x=-1485, y=63, z=381}
