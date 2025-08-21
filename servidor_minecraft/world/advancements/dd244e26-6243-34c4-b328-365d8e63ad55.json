@@ -16,8 +16,12 @@
       "minecraft:river": "2025-08-20 23:27:52 +0000",
       "minecraft:lukewarm_ocean": "2025-08-21 00:50:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-21 01:02:10 +0000",
+      "minecraft:windswept_forest": "2025-08-21 01:11:24 +0000",
       "minecraft:ocean": "2025-08-21 00:53:15 +0000",
+      "minecraft:jungle": "2025-08-21 01:10:13 +0000",
       "minecraft:swamp": "2025-08-21 01:06:32 +0000",
+      "minecraft:birch_forest": "2025-08-21 01:11:38 +0000",
+      "minecraft:windswept_hills": "2025-08-21 01:11:17 +0000",
       "minecraft:savanna": "2025-08-20 22:30:49 +0000",
       "minecraft:bamboo_jungle": "2025-08-21 01:01:33 +0000",
       "minecraft:plains": "2025-08-21 01:04:19 +0000",
@@ -481,11 +485,14 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-08-20 23:22:14 +0000",
+      "chicken": "2025-08-21 01:10:04 +0000",
       "bread": "2025-08-20 22:46:33 +0000",
       "cooked_chicken": "2025-08-21 00:24:55 +0000",
       "cooked_mutton": "2025-08-20 23:22:05 +0000",
       "cooked_beef": "2025-08-21 00:17:11 +0000",
-      "melon_slice": "2025-08-20 23:58:20 +0000"
+      "beef": "2025-08-21 01:13:33 +0000",
+      "melon_slice": "2025-08-20 23:58:20 +0000",
+      "porkchop": "2025-08-21 01:10:22 +0000"
     },
     "done": false
   },
@@ -1621,6 +1628,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-08-21 00:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-21 01:14:39 +0000"
     },
     "done": true
   },
