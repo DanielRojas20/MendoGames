@@ -227,3 +227,65 @@
 [20:30:12] [Server thread/INFO]: [Not Secure] <VICTOR> que hago en medio del mar
 [20:30:14] [Server thread/INFO]: VICTOR lost connection: Disconnected
 [20:30:14] [Server thread/INFO]: VICTOR left the game
+[20:35:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3228ms or 64 ticks behind
+[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 0.9046126772152547,0.0,-10.040165278952202
+[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 1.0277165078648522,0.0,-10.398437880629047
+[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 1.159708601473767,0.0,-10.754803963618258
+[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 1.2982307559686888,0.0,-11.11032934365744
+[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 1.4412745666588762,0.0,-11.465832453812823
+[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 1.5871473908512144,0.0,-11.821930044960993
+[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 1.7344319576054659,0.0,-12.17907889736631
+[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 1.8819510698422164,0.0,-12.537608790168633
+[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 2.0287412490861243,0.0,-12.897747077724148
+[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 2.174020640352637,0.0,-13.259641851393098
+[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 2.317166317978945,0.0,-13.623378482437602
+[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 2.457689520909071,0.0,-13.988994477101812
+[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 2.595885499953056,0.0,-14.356291795991694
+[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 2.7326816277804937,0.0,-14.724882391582412
+[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 2.8695009642756304,0.0,-15.094193600550454
+[20:38:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1903, y=64, z=656} jb{x=1903, y=63, z=655}
+[20:39:51] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[20:39:51] [Server thread/INFO]: edinson123pro left the game
+[20:40:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2841ms or 56 ticks behind
+[20:44:47] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! -0.9068878435825809,0.0,10.351402379878323
+[20:44:47] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! -0.9068252354799142,0.0,10.749852814508586
+[20:44:47] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! -0.9013780601792405,0.0,11.148092748028944
+[20:44:47] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! -0.890629144982654,0.0,11.546078548340006
+[20:50:02] [Server thread/INFO]: eddyjunior2017[/100.68.250.116:60609] logged in with entity id 69364 at (45.5, 66.0, 31.5)
+[20:50:02] [Server thread/INFO]: eddyjunior2017 joined the game
+[20:50:17] [Server thread/INFO]: eddyjunior2017 lost connection: Disconnected
+[20:50:17] [Server thread/INFO]: eddyjunior2017 left the game
+[20:54:54] [Server thread/INFO]: Villager cuf['Farmer'/72985, l='ServerLevel[world]', x=142.39, y=70.94, z=94.61] died, message: 'Farmer was slain by Zombie'
+[20:55:00] [Server thread/INFO]: Villager cuf['Farmer'/72990, l='ServerLevel[world]', x=137.83, y=70.94, z=95.10] died, message: 'Farmer was slain by Zombie'
+[21:08:24] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 10.07436229005566,0.0,2.5811200954381164
+[21:08:24] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 10.461837762750179,0.0,2.6803939452624945
+[21:08:24] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 10.849313235444697,0.0,2.7796677950868727
+[21:08:24] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 11.236788708139215,0.0,2.8789416449112437
+[21:08:24] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 11.624264180833734,0.0,2.9782154947356148
+[21:08:24] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 12.011739653528252,0.0,3.077489344559986
+[21:08:24] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 12.39921512622277,0.0,3.1767631943843497
+[21:08:24] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 12.78669059891729,0.0,3.2760370442087137
+[21:08:24] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 13.174166071611808,0.0,3.3753108940330776
+[21:08:24] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 13.561641544306326,0.0,3.4745847438574415
+[21:14:42] [Server thread/INFO]: [DarkJunior: Set own game mode to Creative Mode]
+[21:14:57] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 100.500000, 70.000000, 100.500000]
+[21:15:04] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 100.500000, 90.000000, 100.500000]
+[21:15:12] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 200.500000, 90.000000, 200.500000]
+[21:15:21] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 700.500000, 90.000000, 700.500000]
+[21:15:43] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to -699.500000, 90.000000, -699.500000]
+[21:15:48] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to -699.500000, 90.000000, 700.500000]
+[21:16:05] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 700.500000, 90.000000, -699.500000]
+[21:16:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2985ms or 59 ticks behind
+[21:16:44] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 7500.500000, 90.000000, 500.500000]
+[21:16:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2936ms or 58 ticks behind
+[21:16:49] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 500.500000, 90.000000, 500.500000]
+[21:17:13] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 500.500000, 90.000000, 600.500000]
+[21:17:20] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 900.500000, 90.000000, 600.500000]
+[21:17:28] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to -899.500000, 90.000000, 600.500000]
+[21:17:38] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 900.500000, 90.000000, -599.500000]
+[21:17:54] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 0.500000, 90.000000, 0.500000]
+[21:18:15] [Server thread/INFO]: [DarkJunior: Set own game mode to Spectator Mode]
+[21:19:05] [Server thread/INFO]: [DarkJunior: Set own game mode to Creative Mode]
+[21:19:07] [Server thread/INFO]: [DarkJunior: Set own game mode to Spectator Mode]
+[21:20:05] [Server thread/INFO]: [DarkJunior: Set own game mode to Creative Mode]
+[21:20:11] [Server thread/INFO]: [DarkJunior: Set own game mode to Survival Mode]
