@@ -401,8 +401,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-22 00:22:43 +0000",
       "minecraft:skeleton": "2025-08-20 23:20:35 +0000",
       "minecraft:piglin": "2025-08-20 23:55:12 +0000",
+      "minecraft:vindicator": "2025-08-22 00:23:59 +0000",
       "minecraft:enderman": "2025-08-20 23:46:40 +0000",
       "minecraft:spider": "2025-08-20 22:35:36 +0000",
       "minecraft:zombie": "2025-08-20 22:44:22 +0000",
@@ -2534,6 +2536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2025-08-22 00:16:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-22 00:12:12 +0000"
@@ -2570,6 +2578,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-22 00:29:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-22 00:12:12 +0000"
@@ -2588,6 +2602,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-08-22 00:14:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-21 23:56:35 +0000"
@@ -2597,6 +2617,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-21 23:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-22 00:22:43 +0000"
     },
     "done": true
   },
@@ -2624,6 +2650,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-08-22 00:28:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-08-21 23:56:35 +0000"
@@ -2648,6 +2680,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-22 00:30:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-08-22 00:12:12 +0000"
@@ -2657,6 +2695,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-08-22 00:12:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-08-22 00:29:24 +0000"
     },
     "done": true
   },
