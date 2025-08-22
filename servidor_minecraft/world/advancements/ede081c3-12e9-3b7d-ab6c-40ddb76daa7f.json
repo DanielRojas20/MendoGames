@@ -407,6 +407,7 @@
       "minecraft:skeleton": "2025-08-20 23:20:35 +0000",
       "minecraft:piglin": "2025-08-20 23:55:12 +0000",
       "minecraft:vindicator": "2025-08-22 00:23:59 +0000",
+      "minecraft:zombified_piglin": "2025-08-22 18:31:31 +0000",
       "minecraft:enderman": "2025-08-20 23:46:40 +0000",
       "minecraft:magma_cube": "2025-08-22 01:37:23 +0000",
       "minecraft:spider": "2025-08-20 22:35:36 +0000",
@@ -3015,6 +3016,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-08-22 18:10:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-08-22 18:32:50 +0000"
     },
     "done": true
   },
