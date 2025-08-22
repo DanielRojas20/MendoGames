@@ -1,291 +1,286 @@
-[17:39:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:39:27] [ServerMain/INFO]: Loaded 1407 recipes
-[17:39:27] [ServerMain/INFO]: Loaded 1520 advancements
-[17:39:27] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[17:39:27] [Server thread/INFO]: Loading properties
-[17:39:27] [Server thread/INFO]: Default game type: SURVIVAL
-[17:39:27] [Server thread/INFO]: Generating keypair
-[17:39:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:39:27] [Server thread/INFO]: Using epoll channel type
-[17:39:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:39:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:39:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:39:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:39:27] [Server thread/INFO]: Preparing level "world"
-[17:39:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:39:37] [Server thread/INFO]: Time elapsed: 9129 ms
-[17:39:37] [Server thread/INFO]: Done (9.536s)! For help, type "help"
-[17:40:00] [Server thread/INFO]: DarkJunior[/100.68.250.116:59290] logged in with entity id 15 at (-1519.1190439802535, 62.9375, 377.30000001192093)
-[17:40:00] [Server thread/INFO]: DarkJunior joined the game
-[17:40:08] [Server thread/INFO]: edinson123pro[/100.87.157.5:60028] logged in with entity id 226 at (-1516.0959461615334, 63.0, 376.7298527822113)
-[17:40:08] [Server thread/INFO]: edinson123pro joined the game
-[17:42:31] [Server thread/INFO]: VICTOR[/100.84.205.84:56175] logged in with entity id 803 at (-1511.765684596837, 63.0, 380.91768288083284)
-[17:42:31] [Server thread/INFO]: VICTOR joined the game
-[17:43:04] [Server thread/INFO]: DarkJunior lost connection: Disconnected
-[17:43:04] [Server thread/INFO]: DarkJunior left the game
-[17:45:18] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
-[17:45:31] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
-[17:47:56] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[17:47:56] [Server thread/INFO]: edinson123pro left the game
-[17:50:13] [Server thread/INFO]: [VICTOR: Applied enchantment Mending to VICTOR's item]
-[17:51:43] [Server thread/INFO]: edinson123pro[/100.87.157.5:60327] logged in with entity id 3413 at (-1519.400370413863, 62.9375, 381.090355627564)
-[17:51:43] [Server thread/INFO]: edinson123pro joined the game
-[17:54:33] [Server thread/INFO]: DarkJunior[/100.68.250.116:59385] logged in with entity id 5637 at (-1513.5552933988427, 63.0, 380.76249998807907)
-[17:54:33] [Server thread/INFO]: DarkJunior joined the game
-[17:56:18] [Server thread/INFO]: VICTOR lost connection: Disconnected
-[17:56:18] [Server thread/INFO]: VICTOR left the game
-[18:03:37] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[18:03:37] [Server thread/INFO]: edinson123pro left the game
-[18:05:17] [Server thread/INFO]: edinson123pro[/100.87.157.5:60666] logged in with entity id 7917 at (-37.59828817442198, 45.0, -233.44785726337477)
-[18:05:17] [Server thread/INFO]: edinson123pro joined the game
-[18:08:56] [Server thread/INFO]: DarkJunior has made the advancement [A Terrible Fortress]
-[18:09:43] [Server thread/INFO]: DarkJunior has made the advancement [Into Fire]
-[18:10:43] [Server thread/INFO]: DarkJunior has made the advancement [Not Today, Thank You]
-[18:10:44] [Server thread/INFO]: edinson123pro has made the advancement [Into Fire]
-[18:12:32] [Server thread/INFO]: DarkJunior has completed the challenge [Hot Tourist Destinations]
-[18:14:32] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[18:14:32] [Server thread/INFO]: edinson123pro left the game
-[18:17:21] [Server thread/INFO]: DarkJunior has made the advancement [Spooky Scary Skeleton]
-[18:28:15] [Server thread/INFO]: edinson123pro[/100.87.157.5:61225] logged in with entity id 11449 at (276.30559675234105, 54.0, -282.02411771975204)
-[18:28:15] [Server thread/INFO]: edinson123pro joined the game
-[18:36:27] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[18:36:27] [Server thread/INFO]: edinson123pro left the game
-[18:36:37] [Server thread/INFO]: edinson123pro[/100.87.157.5:61450] logged in with entity id 13150 at (-24.69999998807907, 54.0, -240.89639519055288)
-[18:36:37] [Server thread/INFO]: edinson123pro joined the game
-[18:37:34] [Server thread/INFO]: VICTOR[/100.84.205.84:58012] logged in with entity id 13286 at (-1513.371444366459, 63.0, 373.6023857476098)
-[18:37:34] [Server thread/INFO]: VICTOR joined the game
-[18:45:16] [Server thread/INFO]: VICTOR has made the advancement [What a Deal!]
-[18:55:42] [Server thread/INFO]: [Not Secure] <VICTOR> me hackean
-[18:55:51] [Server thread/INFO]: [Not Secure] <DarkJunior> kajaja
-[18:55:56] [Server thread/INFO]: [Not Secure] <VICTOR> voya 1 fps
-[18:56:00] [Server thread/INFO]: VICTOR lost connection: Disconnected
-[18:56:00] [Server thread/INFO]: VICTOR left the game
-[18:56:39] [Server thread/INFO]: VICTOR[/100.84.205.84:58644] logged in with entity id 20103 at (-1528.3808105011462, 61.0, 381.29886966110075)
-[18:56:39] [Server thread/INFO]: VICTOR joined the game
-[18:58:28] [Server thread/INFO]: VICTOR has made the advancement [Take Aim]
-[18:59:26] [Server thread/INFO]: edinson123pro has reached the goal [Postmortal]
-[18:59:33] [Server thread/INFO]: [Not Secure] <edinson123pro> uajjaa
-[19:00:20] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-180, y=95, z=-9} jb{x=-184, y=88, z=-11}
-[19:01:24] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-189, y=88, z=9} jb{x=-171, y=115, z=31}
-[19:01:25] [Server thread/INFO]: VICTOR has made the advancement [Hot Stuff]
-[19:02:12] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[19:02:12] [Server thread/INFO]: edinson123pro left the game
-[19:02:50] [Server thread/INFO]: DarkJunior has made the advancement [Enchanter]
-[19:03:36] [Server thread/INFO]: edinson123pro[/100.87.157.5:62103] logged in with entity id 22367 at (-1515.919042812629, 59.14722002120376, 373.30000001192093)
-[19:03:36] [Server thread/INFO]: edinson123pro joined the game
-[19:04:18] [Server thread/INFO]: VICTOR lost connection: Disconnected
-[19:04:18] [Server thread/INFO]: VICTOR left the game
-[19:04:23] [Server thread/INFO]: VICTOR[/100.84.205.84:58892] logged in with entity id 22564 at (-1531.3653265650373, 63.0, 364.908517417833)
-[19:04:23] [Server thread/INFO]: VICTOR joined the game
-[19:04:40] [Server thread/INFO]: VICTOR lost connection: Disconnected
-[19:04:40] [Server thread/INFO]: VICTOR left the game
-[19:04:57] [Server thread/INFO]: VICTOR[/100.84.205.84:58915] logged in with entity id 22719 at (-1542.699999988079, 62.9375, 380.0925993256695)
-[19:04:57] [Server thread/INFO]: VICTOR joined the game
-[19:05:05] [Server thread/INFO]: VICTOR lost connection: Disconnected
-[19:05:05] [Server thread/INFO]: VICTOR left the game
-[19:06:13] [Server thread/INFO]: VICTOR[/100.84.205.84:58976] logged in with entity id 22989 at (-1542.699999988079, 62.9375, 380.0925993256695)
-[19:06:13] [Server thread/INFO]: VICTOR joined the game
-[19:06:42] [Server thread/INFO]: VICTOR lost connection: Disconnected
-[19:06:42] [Server thread/INFO]: VICTOR left the game
-[19:07:05] [Server thread/INFO]: [Not Secure] <DarkJunior> no estas en dc
-[19:07:13] [Server thread/INFO]: [Not Secure] <edinson123pro> estamos en wsp llamda
-[19:07:15] [Server thread/INFO]: VICTOR[/100.84.205.84:59019] logged in with entity id 23211 at (-1561.300000011921, 69.0, 376.69999998807907)
-[19:07:15] [Server thread/INFO]: VICTOR joined the game
-[19:07:20] [Server thread/INFO]: [Not Secure] <VICTOR> brooo
-[19:07:23] [Server thread/INFO]: [Not Secure] <VICTOR> ahhhhhhhhhhhhhhhh
-[19:07:28] [Server thread/INFO]: [Not Secure] <VICTOR> ataque ddos
-[19:08:14] [Server thread/INFO]: [Not Secure] <VICTOR> lag
-[19:08:17] [Server thread/INFO]: [Not Secure] <VICTOR> lag
-[19:08:18] [Server thread/INFO]: [Not Secure] <VICTOR> lag
-[19:08:19] [Server thread/INFO]: [Not Secure] <VICTOR> lag
-[19:08:26] [Server thread/INFO]: [Not Secure] <VICTOR> reinicio el mc
-[19:08:36] [Server thread/INFO]: VICTOR lost connection: Disconnected
-[19:08:36] [Server thread/INFO]: VICTOR left the game
-[19:08:38] [Server thread/INFO]: [Not Secure] <DarkJunior> dame yunque
-[19:11:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1543, y=64, z=517} jb{x=-1542, y=63, z=517}
-[19:11:24] [Server thread/INFO]: VICTOR[/100.84.205.84:59259] logged in with entity id 24814 at (-1515.6462959778453, 64.0, 378.04387789460225)
-[19:11:24] [Server thread/INFO]: VICTOR joined the game
-[19:11:35] [Server thread/INFO]: [Not Secure] <VICTOR> me escuchan?
-[19:13:21] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1522, y=64, z=378} jb{x=-176, y=95, z=33}
-[19:17:18] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-164, y=48, z=-17} jb{x=-165, y=46, z=-16}
-[19:17:18] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-164, y=48, z=-17} jb{x=-165, y=46, z=-16}
-[19:17:18] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-164, y=48, z=-17} jb{x=-165, y=46, z=-16}
-[19:24:08] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 6.547776517626744,0.0,7.932077513770992
-[19:24:08] [Server thread/WARN]: Oak Boat (vehicle of VICTOR) moved too quickly! -3.4699094382876865,0.0,9.54603139005144
-[19:24:08] [Server thread/WARN]: Oak Boat (vehicle of edinson123pro) moved too quickly! 8.535085047480607,0.0,5.884093583070808
-[19:24:08] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 6.771196308874323,0.0,8.26238278503115
-[19:24:08] [Server thread/WARN]: Oak Boat (vehicle of VICTOR) moved too quickly! -3.5546612496109447,0.0,9.914360817940633
-[19:24:08] [Server thread/WARN]: Oak Boat (vehicle of edinson123pro) moved too quickly! 8.851988051213311,0.0,6.127550827172627
-[19:24:08] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 6.9936318829543325,0.0,8.593476261687783
-[19:24:08] [Server thread/WARN]: Oak Boat (vehicle of VICTOR) moved too quickly! -3.6328776024463423,0.0,10.285810235498275
-[19:24:08] [Server thread/WARN]: Oak Boat (vehicle of edinson123pro) moved too quickly! 9.168451790098516,0.0,6.371626768635224
-[19:24:08] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 7.215158959687869,0.0,8.925293450649178
-[19:24:08] [Server thread/WARN]: Oak Boat (vehicle of VICTOR) moved too quickly! -3.703414211050358,0.0,10.66011444823016
-[19:24:08] [Server thread/WARN]: Oak Boat (vehicle of edinson123pro) moved too quickly! 9.48450821754841,0.0,6.6162745152373645
-[19:27:14] [Server thread/INFO]: DarkJunior has made the advancement [Take Aim]
-[19:29:57] [Server thread/INFO]: DarkJunior lost connection: Disconnected
-[19:29:57] [Server thread/INFO]: DarkJunior left the game
-[19:30:01] [Server thread/INFO]: DarkJunior[/100.68.250.116:60046] logged in with entity id 33836 at (-818.6398057995125, 13.0, 1720.7965317937549)
-[19:30:01] [Server thread/INFO]: DarkJunior joined the game
-[19:34:05] [Server thread/INFO]: edinson123pro has made the advancement [Eye Spy]
-[19:34:05] [Server thread/INFO]: VICTOR has made the advancement [Eye Spy]
-[19:34:10] [Server thread/INFO]: DarkJunior has made the advancement [Eye Spy]
-[19:36:06] [Server thread/INFO]: VICTOR has made the advancement [Minecraft: Trial(s) Edition]
-[19:37:42] [Server thread/INFO]: DarkJunior has made the advancement [Minecraft: Trial(s) Edition]
-[19:38:08] [Server thread/INFO]: edinson123pro has made the advancement [Minecraft: Trial(s) Edition]
-[19:44:57] [Server thread/INFO]: VICTOR has made the advancement [The End?]
-[19:44:59] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[19:44:59] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[19:44:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3013ms or 60 ticks behind
-[19:45:03] [Server thread/INFO]: DarkJunior has made the advancement [The End?]
-[19:45:04] [Server thread/INFO]: edinson123pro has made the advancement [The End?]
-[19:46:20] [Server thread/INFO]: edinson123pro has reached the goal [You Need a Mint]
-[19:47:27] [Server thread/INFO]: VICTOR has reached the goal [Postmortal]
-[19:47:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-6, y=63, z=-10} jb{x=-5, y=62, z=-10}
-[19:47:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-2, y=63, z=-8} jb{x=-2, y=62, z=-9}
-[19:48:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-3, y=62, z=4} jb{x=-4, y=61, z=4}
-[19:49:26] [Server thread/INFO]: VICTOR has made the advancement [Free the End]
-[19:50:30] [Server thread/INFO]: VICTOR has reached the goal [The Next Generation]
-[19:50:43] [Server thread/INFO]: edinson123pro has reached the goal [The Next Generation]
-[19:50:49] [Server thread/INFO]: DarkJunior has reached the goal [The Next Generation]
-[19:51:25] [Server thread/INFO]: edinson123pro has made the advancement [Remote Getaway]
-[19:51:39] [Server thread/INFO]: edinson123pro has made the advancement [The City at the End of the Game]
-[19:51:52] [Server thread/INFO]: VICTOR has made the advancement [Remote Getaway]
-[19:52:09] [Server thread/INFO]: DarkJunior has made the advancement [Remote Getaway]
-[19:52:23] [Server thread/INFO]: VICTOR has made the advancement [The City at the End of the Game]
-[19:52:30] [Server thread/INFO]: DarkJunior has made the advancement [The City at the End of the Game]
-[19:54:57] [Server thread/INFO]: edinson123pro has completed the challenge [Great View From Up Here]
-[19:56:49] [Server thread/WARN]: VICTOR moved too quickly! -7.373163700776217,-1.2414344348334367,6.83360978292518
-[19:56:54] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[19:56:54] [Server thread/INFO]: edinson123pro left the game
-[19:59:12] [Server thread/INFO]: VICTOR lost connection: Disconnected
-[19:59:12] [Server thread/INFO]: VICTOR left the game
-[19:59:56] [Server thread/INFO]: VICTOR[/100.84.205.84:60834] logged in with entity id 40757 at (-1118.5191155572109, 23.55555806479394, -207.01454206947915)
-[19:59:56] [Server thread/INFO]: VICTOR joined the game
-[19:59:58] [Server thread/INFO]: VICTOR lost connection: Disconnected
-[19:59:58] [Server thread/INFO]: VICTOR left the game
-[20:00:52] [Server thread/INFO]: edinson123pro[/100.87.157.5:63493] logged in with entity id 40872 at (-1010.0294187635958, 59.0, -493.0100842680004)
-[20:00:52] [Server thread/INFO]: edinson123pro joined the game
-[20:03:34] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[20:03:34] [Server thread/INFO]: edinson123pro left the game
-[20:03:41] [Server thread/INFO]: edinson123pro[/100.87.157.5:63581] logged in with entity id 41271 at (-1118.5959097748907, 39.75938930974028, -226.52311705144882)
-[20:03:41] [Server thread/INFO]: edinson123pro joined the game
-[20:04:33] [Server thread/INFO]: VICTOR[/100.84.205.84:60984] logged in with entity id 41324 at (-1118.5191155572109, 7.646099415534778, -207.01454206947915)
-[20:04:33] [Server thread/INFO]: VICTOR joined the game
-[20:04:35] [Server thread/INFO]: VICTOR lost connection: Disconnected
-[20:04:35] [Server thread/INFO]: VICTOR left the game
-[20:08:29] [Server thread/INFO]: VICTOR[/100.84.205.84:61126] logged in with entity id 41599 at (-1118.5191155572109, -9.669970397757385, -207.01454206947915)
-[20:08:29] [Server thread/INFO]: VICTOR joined the game
-[20:08:33] [Server thread/INFO]: VICTOR fell out of the world
-[20:09:26] [Server thread/INFO]: VICTOR was slain by Enderman
-[20:09:49] [Server thread/INFO]: VICTOR was slain by Enderman
-[20:10:19] [Server thread/INFO]: VICTOR lost connection: Disconnected
-[20:10:19] [Server thread/INFO]: VICTOR left the game
-[20:15:18] [Server thread/WARN]: edinson123pro moved too quickly! 7.591592912057422,-5.779314340209218,4.696812303518755
-[20:15:37] [Server thread/WARN]: DarkJunior moved wrongly!
-[20:16:24] [Server thread/WARN]: edinson123pro moved too quickly! 5.2288711427036105,-9.27797431143199,-1.4372409798863828
-[20:19:47] [Server thread/INFO]: DarkJunior has reached the goal [Sky's the Limit]
-[20:23:06] [Server thread/WARN]: edinson123pro moved too quickly! -4.221749171290369,-21.099477383428237,6.730007126280903
-[20:23:16] [Server thread/INFO]: VICTOR[/100.84.205.84:61650] logged in with entity id 46419 at (-654.4658692483213, 19.0, 1630.0863868680228)
-[20:23:16] [Server thread/INFO]: VICTOR joined the game
-[20:23:32] [Server thread/INFO]: VICTOR was slain by Silverfish
-[20:24:33] [Server thread/INFO]: VICTOR fell out of the world
-[20:25:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=268, y=78, z=118} jb{x=267, y=76, z=118}
-[20:25:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=269, y=78, z=119} jb{x=267, y=76, z=118}
-[20:25:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=269, y=78, z=119} jb{x=267, y=76, z=118}
-[20:25:31] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=285, y=79, z=126} jb{x=284, y=77, z=126}
-[20:25:31] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=285, y=79, z=126} jb{x=284, y=77, z=126}
-[20:25:31] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=285, y=79, z=126} jb{x=284, y=77, z=126}
-[20:25:50] [Server thread/WARN]: edinson123pro moved too quickly! 3.859570434890429,-0.7420008964847256,9.276044057762107
-[20:25:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
-[20:29:32] [Server thread/INFO]: VICTOR lost connection: Kicked by an operator
-[20:29:32] [Server thread/INFO]: VICTOR left the game
-[20:29:32] [Server thread/INFO]: [DarkJunior: Kicked VICTOR: Kicked by an operator]
-[20:29:32] [Server thread/WARN]: handleDisconnection() called twice
-[20:29:56] [Server thread/INFO]: VICTOR[/100.84.205.84:61878] logged in with entity id 52419 at (-234.0615234375, 62.110764312744145, 1141.439453125)
-[20:29:57] [Server thread/INFO]: VICTOR joined the game
-[20:30:01] [Server thread/INFO]: [Not Secure] <VICTOR> MENDO PRIME
-[20:30:06] [Server thread/INFO]: [Not Secure] <VICTOR> XD?
-[20:30:12] [Server thread/INFO]: [Not Secure] <VICTOR> que hago en medio del mar
-[20:30:14] [Server thread/INFO]: VICTOR lost connection: Disconnected
-[20:30:14] [Server thread/INFO]: VICTOR left the game
-[20:35:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3228ms or 64 ticks behind
-[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 0.9046126772152547,0.0,-10.040165278952202
-[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 1.0277165078648522,0.0,-10.398437880629047
-[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 1.159708601473767,0.0,-10.754803963618258
-[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 1.2982307559686888,0.0,-11.11032934365744
-[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 1.4412745666588762,0.0,-11.465832453812823
-[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 1.5871473908512144,0.0,-11.821930044960993
-[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 1.7344319576054659,0.0,-12.17907889736631
-[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 1.8819510698422164,0.0,-12.537608790168633
-[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 2.0287412490861243,0.0,-12.897747077724148
-[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 2.174020640352637,0.0,-13.259641851393098
-[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 2.317166317978945,0.0,-13.623378482437602
-[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 2.457689520909071,0.0,-13.988994477101812
-[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 2.595885499953056,0.0,-14.356291795991694
-[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 2.7326816277804937,0.0,-14.724882391582412
-[20:35:16] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 2.8695009642756304,0.0,-15.094193600550454
-[20:38:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1903, y=64, z=656} jb{x=1903, y=63, z=655}
-[20:39:51] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[20:39:51] [Server thread/INFO]: edinson123pro left the game
-[20:40:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2841ms or 56 ticks behind
-[20:44:47] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! -0.9068878435825809,0.0,10.351402379878323
-[20:44:47] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! -0.9068252354799142,0.0,10.749852814508586
-[20:44:47] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! -0.9013780601792405,0.0,11.148092748028944
-[20:44:47] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! -0.890629144982654,0.0,11.546078548340006
-[20:50:02] [Server thread/INFO]: eddyjunior2017[/100.68.250.116:60609] logged in with entity id 69364 at (45.5, 66.0, 31.5)
-[20:50:02] [Server thread/INFO]: eddyjunior2017 joined the game
-[20:50:17] [Server thread/INFO]: eddyjunior2017 lost connection: Disconnected
-[20:50:17] [Server thread/INFO]: eddyjunior2017 left the game
-[20:54:54] [Server thread/INFO]: Villager cuf['Farmer'/72985, l='ServerLevel[world]', x=142.39, y=70.94, z=94.61] died, message: 'Farmer was slain by Zombie'
-[20:55:00] [Server thread/INFO]: Villager cuf['Farmer'/72990, l='ServerLevel[world]', x=137.83, y=70.94, z=95.10] died, message: 'Farmer was slain by Zombie'
-[21:08:24] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 10.07436229005566,0.0,2.5811200954381164
-[21:08:24] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 10.461837762750179,0.0,2.6803939452624945
-[21:08:24] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 10.849313235444697,0.0,2.7796677950868727
-[21:08:24] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 11.236788708139215,0.0,2.8789416449112437
-[21:08:24] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 11.624264180833734,0.0,2.9782154947356148
-[21:08:24] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 12.011739653528252,0.0,3.077489344559986
-[21:08:24] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 12.39921512622277,0.0,3.1767631943843497
-[21:08:24] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 12.78669059891729,0.0,3.2760370442087137
-[21:08:24] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 13.174166071611808,0.0,3.3753108940330776
-[21:08:24] [Server thread/WARN]: Oak Boat (vehicle of DarkJunior) moved too quickly! 13.561641544306326,0.0,3.4745847438574415
-[21:14:42] [Server thread/INFO]: [DarkJunior: Set own game mode to Creative Mode]
-[21:14:57] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 100.500000, 70.000000, 100.500000]
-[21:15:04] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 100.500000, 90.000000, 100.500000]
-[21:15:12] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 200.500000, 90.000000, 200.500000]
-[21:15:21] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 700.500000, 90.000000, 700.500000]
-[21:15:43] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to -699.500000, 90.000000, -699.500000]
-[21:15:48] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to -699.500000, 90.000000, 700.500000]
-[21:16:05] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 700.500000, 90.000000, -699.500000]
-[21:16:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2985ms or 59 ticks behind
-[21:16:44] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 7500.500000, 90.000000, 500.500000]
-[21:16:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2936ms or 58 ticks behind
-[21:16:49] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 500.500000, 90.000000, 500.500000]
-[21:17:13] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 500.500000, 90.000000, 600.500000]
-[21:17:20] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 900.500000, 90.000000, 600.500000]
-[21:17:28] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to -899.500000, 90.000000, 600.500000]
-[21:17:38] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 900.500000, 90.000000, -599.500000]
-[21:17:54] [Server thread/INFO]: [DarkJunior: Teleported DarkJunior to 0.500000, 90.000000, 0.500000]
-[21:18:15] [Server thread/INFO]: [DarkJunior: Set own game mode to Spectator Mode]
-[21:19:05] [Server thread/INFO]: [DarkJunior: Set own game mode to Creative Mode]
-[21:19:07] [Server thread/INFO]: [DarkJunior: Set own game mode to Spectator Mode]
-[21:20:05] [Server thread/INFO]: [DarkJunior: Set own game mode to Creative Mode]
-[21:20:11] [Server thread/INFO]: [DarkJunior: Set own game mode to Survival Mode]
+[22:13:10] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:13:13] [ServerMain/INFO]: Loaded 1407 recipes
+[22:13:13] [ServerMain/INFO]: Loaded 1520 advancements
+[22:13:13] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[22:13:13] [Server thread/INFO]: Loading properties
+[22:13:13] [Server thread/INFO]: Default game type: SURVIVAL
+[22:13:13] [Server thread/INFO]: Generating keypair
+[22:13:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:13:14] [Server thread/INFO]: Using epoll channel type
+[22:13:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:13:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:13:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:13:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:13:14] [Server thread/INFO]: Preparing level "world"
+[22:13:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:13:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:13:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:13:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:13:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:13:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:13:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:13:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:13:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:13:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:13:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:13:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:13:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:13:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:13:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:13:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:13:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:13:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:13:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[22:13:23] [Server thread/INFO]: Time elapsed: 8769 ms
+[22:13:23] [Server thread/INFO]: Done (9.297s)! For help, type "help"
+[22:14:14] [Server thread/INFO]: heeenry_[/100.78.238.8:54921] logged in with entity id 17 at (-1534.49734995531, 63.0, 408.216272237222)
+[22:14:14] [Server thread/INFO]: heeenry_ joined the game
+[22:14:27] [Server thread/INFO]: DarkJunior[/100.68.250.116:61127] logged in with entity id 276 at (-1520.2047150859732, 63.6906999805212, 378.11224630524987)
+[22:14:27] [Server thread/INFO]: DarkJunior joined the game
+[22:14:44] [Server thread/INFO]: [Not Secure] <DarkJunior> bro
+[22:14:52] [Server thread/INFO]: [Not Secure] <heeenry_> donde esta el nether
+[22:14:53] [Server thread/INFO]: [Not Secure] <heeenry_> digo
+[22:14:54] [Server thread/INFO]: [Not Secure] <heeenry_> end
+[22:14:56] [Server thread/INFO]: [Not Secure] <DarkJunior> te presto
+[22:15:06] [Server thread/INFO]: [Not Secure] <DarkJunior> pero me das unas despues
+[22:15:13] [Server thread/INFO]: [Not Secure] <heeenry_> solo quiero las coordenadas del end
+[22:15:16] [Server thread/INFO]: [Not Secure] <DarkJunior> te presto
+[22:15:16] [Server thread/INFO]: [Not Secure] <heeenry_> :,v
+[22:15:20] [Server thread/INFO]: [Not Secure] <heeenry_> no quiero
+[22:15:29] [Server thread/INFO]: [Not Secure] <DarkJunior> no tengo cord
+[22:15:36] [Server thread/INFO]: [Not Secure] <DarkJunior> ven
+[22:15:36] [Server thread/INFO]: VICTOR[/100.84.205.84:49204] logged in with entity id 588 at (-234.0615234375, 62.110764312744145, 1141.439453125)
+[22:15:36] [Server thread/INFO]: VICTOR joined the game
+[22:16:07] [Server thread/INFO]: [VICTOR: Set own game mode to Spectator Mode]
+[22:16:10] [Server thread/INFO]: [VICTOR: Teleported VICTOR to heeenry_]
+[22:16:13] [Server thread/WARN]: VICTOR moved too quickly! 8.839897833948498,0.0,-5.863817496422257
+[22:16:14] [Server thread/WARN]: VICTOR moved too quickly! 14.77773284015052,0.0,-5.380485641563439
+[22:16:19] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[22:17:18] [Server thread/INFO]: VICTOR was slain by DarkJunior
+[22:17:23] [Server thread/INFO]: [Not Secure] <VICTOR> heeenry_
+[22:17:27] [Server thread/INFO]: [Not Secure] <heeenry_> yo
+[22:17:27] [Server thread/INFO]: [Not Secure] <VICTOR> me mori en el vacio ;C
+[22:17:30] [Server thread/INFO]: [Not Secure] <heeenry_> coordenadas del end
+[22:17:31] [Server thread/INFO]: [Not Secure] <heeenry_> donde es
+[22:17:36] [Server thread/INFO]: heeenry_ has made the advancement [Into Fire]
+[22:17:37] [Server thread/INFO]: [Not Secure] <VICTOR> te consegui muchas cosas
+[22:17:53] [Server thread/INFO]: [Not Secure] <VICTOR> aca
+[22:17:56] [Server thread/INFO]: [Not Secure] <VICTOR> staks
+[22:17:59] [Server thread/INFO]: [Not Secure] <DarkJunior> bro h
+[22:18:02] [Server thread/INFO]: [Not Secure] <DarkJunior> heeenry_
+[22:18:06] [Server thread/INFO]: [Not Secure] <DarkJunior> por alla
+[22:18:07] [Server thread/INFO]: [Not Secure] <heeenry_> eddy ahora si quiero las alas
+[22:18:18] [Server thread/INFO]: [Not Secure] <DarkJunior> me traes unas
+[22:18:21] [Server thread/INFO]: [Not Secure] <heeenry_> si
+[22:18:25] [Server thread/INFO]: heeenry_ has reached the goal [Sky's the Limit]
+[22:18:27] [Server thread/INFO]: [Not Secure] <heeenry_> polvora tienes
+[22:18:36] [Server thread/INFO]: [Not Secure] <DarkJunior> esta para alla mira
+[22:18:54] [Server thread/INFO]: [Not Secure] <DarkJunior> heeenry_
+[22:19:00] [Server thread/INFO]: [Not Secure] <heeenry_> si vi donde es
+[22:19:02] [Server thread/INFO]: [Not Secure] <heeenry_> tengo ojos de ender
+[22:19:06] [Server thread/INFO]: [Not Secure] <DarkJunior> ok
+[22:26:57] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[22:27:16] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[22:28:59] [Server thread/INFO]: [Not Secure] <heeenry_> zzz
+[22:29:01] [Server thread/INFO]: [Not Secure] <heeenry_> pls
+[22:30:35] [Server thread/INFO]: heeenry_ has made the advancement [Eye Spy]
+[22:30:37] [Server thread/INFO]: [Not Secure] <VICTOR> jajaa
+[22:30:39] [Server thread/INFO]: [Not Secure] <VICTOR> q pasoi
+[22:30:54] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[22:31:00] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[22:31:31] [Server thread/INFO]: [Not Secure] <heeenry_> -756 21 1627
+[22:31:31] [Server thread/INFO]: [Not Secure] <heeenry_> end
+[22:32:49] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[22:32:51] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[22:32:54] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[22:32:56] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[22:32:58] [Server thread/INFO]: [VICTOR: Set own game mode to Spectator Mode]
+[22:33:00] [Server thread/INFO]: [VICTOR: Teleported VICTOR to heeenry_]
+[22:33:18] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[22:34:21] [Server thread/INFO]: [VICTOR: Set own game mode to Spectator Mode]
+[22:34:23] [Server thread/INFO]: [VICTOR: Teleported VICTOR to heeenry_]
+[22:34:49] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[22:36:04] [Server thread/INFO]: [Not Secure] <heeenry_> -658 20 1634
+[22:36:05] [Server thread/INFO]: heeenry_ has made the advancement [The End?]
+[22:36:08] [Server thread/INFO]: [VICTOR: Set own game mode to Spectator Mode]
+[22:36:10] [Server thread/INFO]: [VICTOR: Teleported VICTOR to heeenry_]
+[22:36:19] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[22:36:21] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[22:37:28] [Server thread/WARN]: heeenry_ moved too quickly! 7.031161822085096,1.1289611665630161,7.224298875364752
+[22:39:12] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[22:39:14] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[22:39:15] [Server thread/INFO]: [VICTOR: Set own game mode to Spectator Mode]
+[22:39:16] [Server thread/INFO]: [VICTOR: Teleported VICTOR to heeenry_]
+[22:39:34] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[22:39:38] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[22:40:07] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[22:41:08] [Server thread/INFO]: [VICTOR: Set own game mode to Spectator Mode]
+[22:41:09] [Server thread/INFO]: [VICTOR: Teleported VICTOR to heeenry_]
+[22:41:19] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[22:41:24] [Server thread/INFO]: [Not Secure] <VICTOR> ando en el end
+[22:42:38] [Server thread/INFO]: [VICTOR: Set own game mode to Spectator Mode]
+[22:42:40] [Server thread/INFO]: [VICTOR: Teleported VICTOR to heeenry_]
+[22:42:59] [Server thread/INFO]: [Not Secure] <DarkJunior> que tal el end heeenry_
+[22:43:03] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[22:43:06] [Server thread/INFO]: [Not Secure] <heeenry_> no hay nada
+[22:43:12] [Server thread/INFO]: [Not Secure] <DarkJunior> xd
+[22:43:20] [Server thread/INFO]: [Not Secure] <heeenry_> o no se si es q no veo
+[22:43:25] [Server thread/INFO]: [Not Secure] <heeenry_> pq esta limitado los chunks
+[22:43:27] [Server thread/INFO]: [Not Secure] <DarkJunior> VICTOR que haces en espectador
+[22:43:34] [Server thread/INFO]: [Not Secure] <VICTOR> heeenry_ los puse
+[22:43:39] [Server thread/INFO]: [Not Secure] <VICTOR> DarkJunior?
+[22:43:46] [Server thread/INFO]: [Not Secure] <VICTOR> heeenry_ puse 14
+[22:43:49] [Server thread/INFO]: [Not Secure] <VICTOR> si quieres pongo mas
+[22:43:53] [Server thread/INFO]: [Not Secure] <VICTOR> DarkJunior ando en el end
+[22:43:54] [Server thread/INFO]: [Not Secure] <VICTOR> xd
+[22:43:56] [Server thread/INFO]: [Not Secure] <heeenry_> con razon
+[22:43:57] [Server thread/INFO]: [Not Secure] <VICTOR> loco
+[22:44:05] [Server thread/INFO]: [Not Secure] <heeenry_> se me hacia raro q con 32 no vea todo
+[22:44:11] [Server thread/INFO]: [Not Secure] <VICTOR> luego lo subo
+[22:44:20] [Server thread/INFO]: [Not Secure] <heeenry_> nono dsps se va a lagear por renderizar tanto
+[22:44:24] [Server thread/INFO]: [Not Secure] <DarkJunior> heeenry_ DC?
+[22:44:25] [Server thread/INFO]: [Not Secure] <VICTOR> tranqui
+[22:44:29] [Server thread/INFO]: [Not Secure] <VICTOR> el server aguanta
+[22:44:43] [Server thread/INFO]: [Not Secure] <VICTOR> no necuentro end city ;c
+[22:44:47] [Server thread/INFO]: [Not Secure] <heeenry_> si encuentro una end city soy gay
+[22:45:17] [Server thread/INFO]: [Not Secure] <DarkJunior> heeenry_ DC?
+[22:45:27] [Server thread/INFO]: [Not Secure] <heeenry_> estoy mirando videos
+[22:45:28] [Server thread/INFO]: [Not Secure] <heeenry_> luego
+[22:46:19] [Server thread/INFO]: edinson123pro[/100.87.157.5:51172] logged in with entity id 17412 at (1687.3839986498801, 61.324900931955256, 818.7695120983391)
+[22:46:19] [Server thread/INFO]: edinson123pro joined the game
+[22:46:40] [Server thread/INFO]: [Not Secure] <VICTOR> heeenry_
+[22:46:45] [Server thread/INFO]: [Not Secure] <heeenry_> son unos sin vida, como voy a estar en el -6000 y todavia ver bloques de ustedes
+[22:46:45] [Server thread/INFO]: [Not Secure] <VICTOR> tienes otra elytra?
+[22:46:55] [Server thread/INFO]: [Not Secure] <heeenry_> no solo tengo 1
+[22:46:56] [Server thread/INFO]: [Not Secure] <VICTOR> estoy aqui heeenry_ xd
+[22:47:00] [Server thread/INFO]: [Not Secure] <edinson123pro> henryr
+[22:47:01] [Server thread/INFO]: [Not Secure] <VICTOR> me ves?
+[22:47:05] [Server thread/INFO]: [Not Secure] <heeenry_> si
+[22:47:06] [Server thread/INFO]: [Not Secure] <edinson123pro> damelytras
+[22:47:25] [Server thread/WARN]: heeenry_ moved too quickly! -7.672886826761896,-6.998228499771891,-1.647594455752369
+[22:47:27] [Server thread/INFO]: [Not Secure] <VICTOR> gg
+[22:47:29] [Server thread/INFO]: VICTOR fell out of the world
+[22:48:22] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[22:48:50] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[22:48:52] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[22:48:57] [Server thread/INFO]: edinson123pro has made the advancement [Best Friends Forever]
+[22:49:21] [Server thread/INFO]: [VICTOR: Applied enchantment Silk Touch to VICTOR's item]
+[22:49:25] [Server thread/INFO]: DarkJunior lost connection: Disconnected
+[22:49:25] [Server thread/INFO]: DarkJunior left the game
+[22:49:27] [Server thread/INFO]: [VICTOR: Applied enchantment Efficiency V to VICTOR's item]
+[22:49:35] [Server thread/INFO]: [VICTOR: Set own game mode to Spectator Mode]
+[22:49:38] [Server thread/INFO]: [VICTOR: Teleported VICTOR to edinson123pro]
+[22:49:53] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[22:49:56] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[22:50:00] [Server thread/INFO]: [Not Secure] <VICTOR> eddy est?
+[22:50:11] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[22:50:19] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[22:50:47] [Server thread/INFO]: [Not Secure] <heeenry_> al fin end city
+[22:51:28] [Server thread/INFO]: heeenry_ has made the advancement [The City at the End of the Game]
+[22:51:34] [Server thread/INFO]: [Not Secure] <VICTOR> omgg
+[22:51:44] [Server thread/INFO]: [Not Secure] <VICTOR> edinson123pro
+[22:51:47] [Server thread/INFO]: [Not Secure] <VICTOR> whattt
+[22:51:51] [Server thread/INFO]: [Not Secure] <edinson123pro> gg
+[22:51:54] [Server thread/INFO]: [Not Secure] <VICTOR> mi salvador literalmente
+[22:51:58] [Server thread/INFO]: [Not Secure] <VICTOR> donde esta la base
+[22:51:58] [Server thread/INFO]: [Not Secure] <edinson123pro> henrry pasame las coords de la alea
+[22:52:22] [Server thread/INFO]: [Not Secure] <edinson123pro> heeenry_
+[22:52:26] [Server thread/INFO]: [Not Secure] <VICTOR> aca
+[22:53:39] [Server thread/INFO]: [Not Secure] <VICTOR> y eddy?
+[22:53:47] [Server thread/INFO]: [Not Secure] <heeenry_> se fue
+[22:53:55] [Server thread/INFO]: [Not Secure] <edinson123pro> no solo se qudo afun rato
+[22:55:07] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[22:55:15] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[22:55:32] [Server thread/WARN]: heeenry_ moved too quickly! -2.654152394178709,-92.27045245939377,6.262027146588025
+[22:55:32] [Server thread/INFO]: heeenry_ has completed the challenge [Great View From Up Here]
+[22:56:00] [Server thread/INFO]: [Not Secure] <edinson123pro> heeenry_ donde est ala aldea
+[22:56:25] [Server thread/INFO]: [Not Secure] <heeenry_> cual aldea
+[22:56:31] [Server thread/INFO]: [Not Secure] <edinson123pro> donde estamos vividnd
+[22:56:34] [Server thread/INFO]: [VICTOR: Summoned new Horse]
+[22:56:42] [Server thread/INFO]: VICTOR has made the advancement [Best Friends Forever]
+[22:57:01] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[22:57:02] [Server thread/INFO]: heeenry_ has made the advancement [Local Brewery]
+[22:57:13] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[22:57:25] [Server thread/INFO]: [Not Secure] <VICTOR> y esta aldea=
+[22:57:34] [Server thread/INFO]: [Not Secure] <edinson123pro> ni idea
+[22:58:03] [Server thread/INFO]: [Not Secure] <edinson123pro> heeenry_ pasa la aldeaaaaaaaaaaaaaaaa
+[22:58:07] [Server thread/INFO]: [Not Secure] <heeenry_> hermano no se
+[22:58:11] [Server thread/INFO]: [Not Secure] <VICTOR> g
+[22:58:13] [Server thread/INFO]: [Not Secure] <edinson123pro> gg
+[22:58:14] [Server thread/INFO]: [Not Secure] <VICTOR> bro
+[22:58:16] [Server thread/INFO]: [Not Secure] <VICTOR> matame
+[22:58:20] [Server thread/INFO]: [Not Secure] <VICTOR> yo tengo spawn
+[22:58:31] [Server thread/INFO]: [Not Secure] <VICTOR> agarra
+[22:58:39] [Server thread/INFO]: [Not Secure] <VICTOR> agarra
+[22:58:39] [Server thread/INFO]: VICTOR was slain by edinson123pro
+[22:58:44] [Server thread/INFO]: [Not Secure] <VICTOR> soibre todo el cuarzo
+[22:58:46] [Server thread/INFO]: [Not Secure] <VICTOR> SJADLKJSADHJDSAL
+[22:58:49] [Server thread/INFO]: [Not Secure] <VICTOR> ACABO DE DORMIR
+[22:58:50] [Server thread/INFO]: [Not Secure] <edinson123pro> ok gg
+[22:58:52] [Server thread/INFO]: [Not Secure] <VICTOR> en la otra cama
+[22:59:00] [Server thread/INFO]: [Not Secure] <VICTOR> na pero si me acuerdo
+[22:59:04] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[22:59:14] [Server thread/INFO]: [Not Secure] <VICTOR> era como -1200 algo
+[22:59:15] [Server thread/INFO]: [Not Secure] <VICTOR> 250
+[22:59:25] [Server thread/INFO]: [VICTOR: Teleported VICTOR to -1199.500000, 100.000000, 250.500000]
+[22:59:41] [Server thread/INFO]: [Not Secure] <VICTOR> bro
+[22:59:44] [Server thread/INFO]: [Not Secure] <VICTOR> tengo cptura
+[22:59:44] [Server thread/INFO]: [Not Secure] <VICTOR> gg
+[22:59:55] [Server thread/INFO]: [Not Secure] <VICTOR> -1469 69 369
+[22:59:56] [Server thread/INFO]: [Not Secure] <VICTOR> -1469 69 369
+[22:59:56] [Server thread/INFO]: [Not Secure] <VICTOR> -1469 69 369
+[22:59:57] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[22:59:59] [Server thread/INFO]: [Not Secure] <edinson123pro> gg
+[23:00:17] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[23:01:34] [Server thread/WARN]: heeenry_ moved too quickly! 6.0482808802807995,-42.31615241078963,7.314629479072096
+[23:01:49] [Server thread/INFO]: [Not Secure] <heeenry_> acabo de caer que entre al end sin las coords del portal para salir
+[23:01:50] [Server thread/INFO]: [Not Secure] <heeenry_> :V
+[23:01:57] [Server thread/INFO]: [Not Secure] <edinson123pro> jjajjaaj
+[23:02:00] [Server thread/INFO]: [Not Secure] <VICTOR> jjaa
+[23:02:02] [Server thread/INFO]: [Not Secure] <VICTOR> bysca otro
+[23:02:05] [Server thread/INFO]: [Not Secure] <VICTOR> hay varios
+[23:02:47] [Server thread/INFO]: [Not Secure] <VICTOR> edinson123pro ves mi punto el mapa
+[23:02:49] [Server thread/INFO]: [Not Secure] <VICTOR> y listo
+[23:02:57] [Server thread/INFO]: [Not Secure] <edinson123pro> okok
+[23:03:02] [Server thread/INFO]: [Not Secure] <edinson123pro> heeenry_
+[23:03:07] [Server thread/INFO]: [Not Secure] <heeenry_> soy muy idiota
+[23:03:08] [Server thread/INFO]: [Not Secure] <heeenry_> pero d vdd
+[23:03:12] [Server thread/INFO]: [Not Secure] <heeenry_> hice un cofre del end
+[23:03:15] [Server thread/INFO]: [Not Secure] <heeenry_> guarde las cosas
+[23:03:17] [Server thread/INFO]: [Not Secure] <heeenry_> y no las alas
+[23:03:19] [Server thread/INFO]: [Not Secure] <heeenry_> ya lo rompi
+[23:03:20] [Server thread/INFO]: [Not Secure] <VICTOR> JAJAJJAA
+[23:03:22] [Server thread/INFO]: [Not Secure] <heeenry_> y no tengo ojo del end
+[23:03:33] [Server thread/INFO]: [Not Secure] <heeenry_> -854 61 -591
+[23:03:36] [Server thread/INFO]: [Not Secure] <heeenry_> ahi tengo q ir
+[23:03:41] [Server thread/INFO]: [Not Secure] <heeenry_> ok algun dia llegare
+[23:03:47] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[23:03:58] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[23:04:00] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[23:04:03] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[23:04:44] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[23:04:46] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[23:05:05] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[23:05:08] [Server thread/INFO]: [Not Secure] <VICTOR> TE VEO
+[23:05:15] [Server thread/INFO]: VICTOR lost connection: Disconnected
+[23:05:15] [Server thread/INFO]: VICTOR left the game
+[23:09:49] [Server thread/INFO]: [Not Secure] <edinson123pro> heeenry_
+[23:09:53] [Server thread/INFO]: [Not Secure] <heeenry_> si
+[23:10:05] [Server thread/INFO]: [Not Secure] <edinson123pro> por uqe hay 4 aldeanos hicieron trading hold y losmovieron?
+[23:10:29] [Server thread/INFO]: [Not Secure] <heeenry_> como q los movieron
+[23:10:32] [Server thread/WARN]: heeenry_ moved too quickly! -7.537706000845901,0.21895710233268062,7.9276245295477565
+[23:10:35] [Server thread/INFO]: [Not Secure] <edinson123pro> solo hya 4 aldeanos xd
+[23:10:48] [Server thread/INFO]: [Not Secure] <edinson123pro> un flechero dos bebes y un herrero
+[23:11:09] [Server thread/INFO]: [Not Secure] <heeenry_> que
+[23:11:14] [Server thread/INFO]: [Not Secure] <edinson123pro> na es broma xd
+[23:11:21] [Server thread/INFO]: [Not Secure] <edinson123pro> todo esta bien
+[23:11:21] [Server thread/INFO]: [Not Secure] <heeenry_> no m digas q se murieron
+[23:11:22] [Server thread/INFO]: [Not Secure] <heeenry_> xd
+[23:11:26] [Server thread/INFO]: [Not Secure] <edinson123pro> nono
+[23:11:27] [Server thread/INFO]: [Not Secure] <heeenry_> ah
+[23:11:28] [Server thread/INFO]: [Not Secure] <edinson123pro> era broma xd
+[23:11:34] [Server thread/INFO]: [Not Secure] <heeenry_> hermano estoy sufriendo en el end
+[23:11:36] [Server thread/INFO]: [Not Secure] <heeenry_> y me haces esto
+[23:11:37] [Server thread/INFO]: [Not Secure] <edinson123pro> jajjajaj
+[23:13:57] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[23:13:57] [Server thread/INFO]: edinson123pro left the game

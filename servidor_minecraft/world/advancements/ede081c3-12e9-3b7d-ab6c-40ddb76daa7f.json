@@ -419,7 +419,8 @@
       "minecraft:magma_cube": "2025-08-22 01:37:23 +0000",
       "minecraft:spider": "2025-08-20 22:35:36 +0000",
       "minecraft:zombie": "2025-08-20 22:44:22 +0000",
-      "minecraft:drowned": "2025-08-21 01:50:48 +0000"
+      "minecraft:drowned": "2025-08-21 01:50:48 +0000",
+      "minecraft:zombie_villager": "2025-08-22 22:56:20 +0000"
     },
     "done": false
   },
@@ -3437,6 +3438,24 @@
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2025-08-22 20:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-22 22:48:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-08-22 22:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-08-22 22:58:41 +0000"
     },
     "done": true
   },
