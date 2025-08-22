@@ -240,6 +240,8 @@
     "criteria": {
       "minecraft:pillager": "2025-08-21 23:34:09 +0000",
       "minecraft:vindicator": "2025-08-21 23:34:55 +0000",
+      "minecraft:enderman": "2025-08-22 19:13:54 +0000",
+      "minecraft:magma_cube": "2025-08-22 19:16:20 +0000",
       "minecraft:vex": "2025-08-22 02:39:21 +0000",
       "minecraft:evoker": "2025-08-22 02:39:15 +0000"
     },
@@ -1532,7 +1534,9 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-08-22 01:54:36 +0000",
-      "minecraft:soul_sand_valley": "2025-08-22 01:54:22 +0000"
+      "minecraft:soul_sand_valley": "2025-08-22 01:54:22 +0000",
+      "minecraft:basalt_deltas": "2025-08-22 19:15:05 +0000",
+      "minecraft:warped_forest": "2025-08-22 19:14:04 +0000"
     },
     "done": false
   },
@@ -1716,6 +1720,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-22 18:45:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_helmet": "2025-08-22 18:46:03 +0000"
@@ -1728,9 +1738,33 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "traded": "2025-08-22 18:45:16 +0000"
+      "has_bow": "2025-08-22 18:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-22 18:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-22 19:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-22 19:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-22 19:01:46 +0000"
     },
     "done": true
   },
