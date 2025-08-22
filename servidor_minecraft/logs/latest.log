@@ -1,136 +1,47 @@
-[00:00:25] [Server thread/INFO]: [VICTOR: Set own game mode to Spectator Mode]
-[00:00:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
-[00:00:32] [Server thread/WARN]: VICTOR moved too quickly! 1.3151614414159667,0.0,10.69628005048321
-[00:00:37] [Server thread/WARN]: VICTOR moved too quickly! 5.080067421564536,1.2864093162715022,-8.706753182712873
-[00:00:39] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
-[00:02:25] [Server thread/INFO]: Locating element minecraft:old_growth_birch_forest took 63 ms
-[00:02:29] [Server thread/INFO]: [VICTOR: Teleported VICTOR to -1279.500000, 86.000000, 1436.500000]
-[00:02:36] [Server thread/WARN]: heeenry_ moved too quickly! 3.8462675398002375,3.772311512455019,8.558019429466299
-[00:02:36] [Server thread/INFO]: [Not Secure] <VICTOR> alli esta
-[00:02:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7328ms or 146 ticks behind
-[00:02:39] [Server thread/INFO]: [VICTOR: Set own game mode to Spectator Mode]
-[00:02:42] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
-[00:02:56] [Server thread/INFO]: heeenry_ has made the advancement [Ice Bucket Challenge]
-[00:03:19] [Server thread/INFO]: Locating element minecraft:birch_forest took 3 ms
-[00:03:22] [Server thread/INFO]: [VICTOR: Teleported VICTOR to -1315.500000, 112.000000, 1437.500000]
-[00:03:24] [Server thread/INFO]: [VICTOR: Set own game mode to Spectator Mode]
-[00:03:30] [Server thread/INFO]: [Not Secure] <heeenry_> encontre otra aldea
-[00:03:36] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
-[00:03:42] [Server thread/INFO]: [Not Secure] <VICTOR> la locacion de
-[00:03:43] [Server thread/INFO]: [Not Secure] <edinson123pro> manda coords
-[00:03:46] [Server thread/INFO]: [Not Secure] <VICTOR> los pinois
-[00:03:48] [Server thread/INFO]: [Not Secure] <VICTOR> pinos
-[00:03:49] [Server thread/INFO]: [Not Secure] <edinson123pro> las juntare
-[00:03:51] [Server thread/INFO]: [Not Secure] <heeenry_> -1431 63 1083
-[00:03:53] [Server thread/INFO]: [Not Secure] <VICTOR> es
-[00:03:53] [Server thread/INFO]: [Not Secure] <edinson123pro> ok
-[00:04:06] [Server thread/INFO]: [Not Secure] <VICTOR> -1371 139 1391
-[00:04:21] [Server thread/INFO]: [Not Secure] <heeenry_> alguien duerma v:
-[00:04:27] [Server thread/INFO]: [Not Secure] <VICTOR> yo
-[00:04:28] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
-[00:04:32] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
-[00:04:34] [Server thread/INFO]: VICTOR has made the advancement [Sweet Dreams]
-[00:04:52] [Server thread/INFO]: [VICTOR: Set own game mode to Spectator Mode]
-[00:08:05] [Server thread/INFO]: [VICTOR: Teleported VICTOR to heeenry_]
-[00:08:12] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
-[00:08:27] [Server thread/INFO]: [Not Secure] <VICTOR> :C
-[00:08:30] [Server thread/INFO]: [Not Secure] <VICTOR> tarde mucho ?
-[00:08:41] [Server thread/INFO]: [Not Secure] <VICTOR> heeenry_ mira abajo
-[00:08:52] [Server thread/INFO]: [Not Secure] <heeenry_> espera talo esto
-[00:09:17] [Server thread/INFO]: [Not Secure] <edinson123pro> hjajajajaj
-[00:09:39] [Server thread/INFO]: [Not Secure] <VICTOR> toma
-[00:09:50] [Server thread/INFO]: [VICTOR: Set own game mode to Spectator Mode]
-[00:09:58] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
-[00:09:58] [Server thread/WARN]: VICTOR moved wrongly!
-[00:10:02] [Server thread/INFO]: [Not Secure] <heeenry_> pq te pones en espectador
-[00:10:08] [Server thread/INFO]: [Not Secure] <VICTOR> como asi?
-[00:10:26] [Server thread/INFO]: [Not Secure] <VICTOR> no estoy en espectadr
-[00:10:28] [Server thread/INFO]: [Not Secure] <VICTOR> o si=?
-[00:10:41] [Server thread/INFO]: [Not Secure] <VICTOR> bro?
-[00:10:47] [Server thread/INFO]: [Not Secure] <VICTOR> aver xdd me reconecto
-[00:10:48] [Server thread/INFO]: VICTOR lost connection: Disconnected
-[00:10:48] [Server thread/INFO]: VICTOR left the game
-[00:10:50] [Server thread/INFO]: VICTOR[/100.84.205.84:53056] logged in with entity id 27296 at (-1526.4617811386647, 61.0, 381.33664217238174)
-[00:10:50] [Server thread/INFO]: VICTOR joined the game
-[00:11:26] [Server thread/INFO]: [Not Secure] <VICTOR> un momento
-[00:11:27] [Server thread/INFO]: VICTOR lost connection: Disconnected
-[00:11:27] [Server thread/INFO]: VICTOR left the game
-[00:14:25] [Server thread/INFO]: heeenry_ has made the advancement [Cover Me with Diamonds]
-[00:14:36] [Server thread/INFO]: [Not Secure] <heeenry_> toma
-[00:14:52] [Server thread/INFO]: edinson123pro has made the advancement [Cover Me with Diamonds]
-[00:14:54] [Server thread/INFO]: [Not Secure] <edinson123pro> graciaas
-[00:18:35] [Server thread/INFO]: DAKCR[/100.68.160.27:64831] logged in with entity id 29513 at (47.5, 66.0, 33.5)
-[00:18:35] [Server thread/INFO]: DAKCR joined the game
-[00:18:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=51, y=68, z=37}
-[00:18:54] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=51, y=69, z=37}
-[00:18:54] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=51, y=68, z=37}
-[00:20:09] [Server thread/WARN]: DAKCR moved too quickly! -8.78543427065054,1.2286092609382138,4.866210025042193
-[00:21:11] [Server thread/INFO]: DAKCR has made the advancement [Stone Age]
-[00:21:36] [Server thread/INFO]: [Not Secure] <heeenry_> PQ
-[00:21:37] [Server thread/INFO]: [Not Secure] <heeenry_> LA TOMASTE
-[00:21:41] [Server thread/INFO]: [Not Secure] <edinson123pro> JAJAJA
-[00:21:42] [Server thread/INFO]: DAKCR has made the advancement [Getting an Upgrade]
-[00:21:56] [Server thread/INFO]: [Not Secure] <heeenry_> vete a la otra aldea
-[00:22:43] [Server thread/INFO]: edinson123pro has made the advancement [Voluntary Exile]
-[00:27:08] [Server thread/INFO]: [Not Secure] <heeenry_> por los magos primero
-[00:27:09] [Server thread/INFO]: [Not Secure] <heeenry_> cuando salgan
-[00:27:16] [Server thread/INFO]: [Not Secure] <edinson123pro> ok
-[00:28:14] [Server thread/INFO]: edinson123pro has completed the challenge [Hero of the Village]
-[00:28:14] [Server thread/INFO]: heeenry_ has completed the challenge [Hero of the Village]
-[00:28:19] [Server thread/INFO]: [Not Secure] <heeenry_> Y LOS TOTEMS
-[00:28:25] [Server thread/INFO]: Villager cuf['Librarian'/565, l='ServerLevel[world]', x=-1526.15, y=62.17, z=381.40] died, message: 'Librarian was slain by Iron Golem'
-[00:28:29] [Server thread/INFO]: [Not Secure] <edinson123pro> no spwanearon magos
-[00:29:24] [Server thread/INFO]: edinson123pro has made the advancement [Ol' Betsy]
-[00:29:24] [Server thread/INFO]: edinson123pro has made the advancement [Take Aim]
-[00:30:45] [Server thread/INFO]: edinson123pro has made the advancement [What a Deal!]
-[00:30:48] [Server thread/INFO]: DAKCR has made the advancement [Monster Hunter]
-[00:34:58] [Server thread/INFO]: DAKCR has made the advancement [Acquire Hardware]
-[00:35:06] [Server thread/INFO]: [Not Secure] <heeenry_> toma
-[00:35:45] [Server thread/INFO]: DAKCR has made the advancement [Suit Up]
-[00:38:33] [Server thread/INFO]: DAKCR was slain by edinson123pro
-[00:39:22] [Server thread/INFO]: [Not Secure] <edinson123pro> henrry
-[00:39:39] [Server thread/INFO]: DAKCR has made the advancement [Sweet Dreams]
-[00:39:46] [Server thread/INFO]: [Not Secure] <DAKCR> DORMIDDDD
-[00:40:44] [Server thread/INFO]: [Not Secure] <heeenry_> gol d la u
-[00:40:47] [Server thread/INFO]: [Not Secure] <heeenry_> mendo tenia razon
-[00:40:51] [Server thread/INFO]: [Not Secure] <edinson123pro> jajaja
-[00:40:56] [Server thread/INFO]: [Not Secure] <edinson123pro> tmr
-[00:40:59] [Server thread/INFO]: [Not Secure] <edinson123pro> pacheco
-[00:41:01] [Server thread/INFO]: [Not Secure] <heeenry_> lo llamamos loco
-[00:41:02] [Server thread/INFO]: [Not Secure] <edinson123pro> prime
-[00:41:07] [Server thread/INFO]: [Not Secure] <heeenry_> ese pacheco esta ajustando su gana palmeiras
-[00:42:56] [Server thread/INFO]: [Not Secure] <edinson123pro> heeenryry
-[00:43:00] [Server thread/INFO]: [Not Secure] <edinson123pro> dio infinidad
-[00:43:02] [Server thread/INFO]: [Not Secure] <edinson123pro> un aldeano
-[00:43:04] [Server thread/INFO]: [Not Secure] <heeenry_> nah
-[00:43:06] [Server thread/INFO]: [Not Secure] <heeenry_> basura
-[00:43:13] [Server thread/INFO]: [Not Secure] <heeenry_> si total dan flechas por pocas esmeraldas
-[00:43:22] [Server thread/INFO]: [Not Secure] <heeenry_> busca prote 4
-[00:43:24] [Server thread/INFO]: [Not Secure] <heeenry_> reparacion
-[00:43:27] [Server thread/INFO]: [Not Secure] <heeenry_> irrompibilidad 3
-[00:43:29] [Server thread/INFO]: [Not Secure] <heeenry_> saqueo 2
-[00:43:31] [Server thread/INFO]: [Not Secure] <heeenry_> barrido 3
-[00:43:37] [Server thread/INFO]: [Not Secure] <heeenry_> eficiencia 5
-[00:43:40] [Server thread/INFO]: [Not Secure] <heeenry_> fortuna 3
-[00:43:46] [Server thread/INFO]: [Not Secure] <DAKCR> TOQUE DE SEDA?
-[00:44:03] [Server thread/INFO]: DAKCR has made the advancement [What a Deal!]
-[00:45:13] [Server thread/INFO]: DAKCR has made the advancement [Voluntary Exile]
-[00:46:01] [Server thread/INFO]: DAKCR has made the advancement [Enchanter]
-[00:47:00] [Server thread/INFO]: Incorrect argument for command
-[00:47:00] [Server thread/INFO]: list players<--[HERE]
-[00:47:03] [Server thread/INFO]: There are 3 of a max of 20 players online: heeenry_, edinson123pro, DAKCR
-[00:47:17] [Server thread/INFO]: No player was found
-[00:47:38] [Server thread/INFO]: [Not Secure] <heeenry_> toma
-[00:47:42] [Server thread/INFO]: You whisper to DAKCR: ARRIBA ALIANZA
-[00:48:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[00:48:02] [Server thread/INFO]: MSG DAKCR ARRIBA ALIANZA<--[HERE]
-[00:48:26] [Server thread/INFO]: You whisper to DAKCR: arriba vene
-[00:53:43] [Server thread/INFO]: [Not Secure] <heeenry_> y el que daba filo 5 donde esta
-[00:53:49] [Server thread/INFO]: [Not Secure] <edinson123pro> murio
-[00:53:52] [Server thread/INFO]: [Not Secure] <heeenry_> como
-[00:53:53] [Server thread/INFO]: [Not Secure] <heeenry_> ?
-[00:53:55] [Server thread/INFO]: [Not Secure] <edinson123pro> na mentira xd
-[00:53:58] [Server thread/INFO]: [Not Secure] <edinson123pro> donde estara
-[00:55:05] [Server thread/INFO]: [Not Secure] <edinson123pro> afk 10 mins
-[01:05:13] [Server thread/WARN]: DAKCR moved too quickly! -8.82892093315354,-2.3330594559789333,4.236243354391945
-[01:06:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1543, y=59, z=212} jb{x=-1543, y=60, z=212}
+[17:39:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[17:39:27] [ServerMain/INFO]: Loaded 1407 recipes
+[17:39:27] [ServerMain/INFO]: Loaded 1520 advancements
+[17:39:27] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[17:39:27] [Server thread/INFO]: Loading properties
+[17:39:27] [Server thread/INFO]: Default game type: SURVIVAL
+[17:39:27] [Server thread/INFO]: Generating keypair
+[17:39:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:39:27] [Server thread/INFO]: Using epoll channel type
+[17:39:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:39:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:39:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:39:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:39:27] [Server thread/INFO]: Preparing level "world"
+[17:39:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:39:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[17:39:37] [Server thread/INFO]: Time elapsed: 9129 ms
+[17:39:37] [Server thread/INFO]: Done (9.536s)! For help, type "help"
+[17:40:00] [Server thread/INFO]: DarkJunior[/100.68.250.116:59290] logged in with entity id 15 at (-1519.1190439802535, 62.9375, 377.30000001192093)
+[17:40:00] [Server thread/INFO]: DarkJunior joined the game
+[17:40:08] [Server thread/INFO]: edinson123pro[/100.87.157.5:60028] logged in with entity id 226 at (-1516.0959461615334, 63.0, 376.7298527822113)
+[17:40:08] [Server thread/INFO]: edinson123pro joined the game
+[17:42:31] [Server thread/INFO]: VICTOR[/100.84.205.84:56175] logged in with entity id 803 at (-1511.765684596837, 63.0, 380.91768288083284)
+[17:42:31] [Server thread/INFO]: VICTOR joined the game
+[17:43:04] [Server thread/INFO]: DarkJunior lost connection: Disconnected
+[17:43:04] [Server thread/INFO]: DarkJunior left the game
+[17:45:18] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[17:45:31] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[17:47:56] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[17:47:56] [Server thread/INFO]: edinson123pro left the game
