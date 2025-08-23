@@ -145,3 +145,11 @@
 [00:56:55] [Server thread/INFO]: [Not Secure] <DarkJunior> aqui deje
 [00:57:00] [Server thread/INFO]: DarkJunior lost connection: Disconnected
 [00:57:00] [Server thread/INFO]: DarkJunior left the game
+[00:58:17] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[00:58:17] [Server thread/INFO]: edinson123pro left the game
+[01:13:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1592, y=71, z=417} jb{x=-1433, y=116, z=453}
+[01:13:51] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1433, y=114, z=453} jb{x=-1433, y=112, z=453}
+[01:13:51] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1433, y=114, z=453} jb{x=-1433, y=111, z=453}
+[01:14:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1433, y=109, z=453} jb{x=-1433, y=100, z=453}
+[01:14:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1433, y=109, z=453} jb{x=-1433, y=94, z=453}
+[01:22:08] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1433, y=65, z=453} jb{x=-1445, y=102, z=445}
