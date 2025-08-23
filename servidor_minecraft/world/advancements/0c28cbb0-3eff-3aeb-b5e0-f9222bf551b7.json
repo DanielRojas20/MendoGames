@@ -1216,6 +1216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-08-23 02:59:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2025-08-23 02:42:21 +0000"
@@ -1393,6 +1399,12 @@
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2025-08-23 02:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-08-23 02:59:13 +0000"
     },
     "done": true
   },

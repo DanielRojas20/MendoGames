@@ -19,6 +19,8 @@
       "minecraft:jungle": "2025-08-21 02:10:38 +0000",
       "minecraft:ocean": "2025-08-22 19:21:19 +0000",
       "minecraft:swamp": "2025-08-22 20:46:14 +0000",
+      "minecraft:grove": "2025-08-23 03:05:33 +0000",
+      "minecraft:meadow": "2025-08-23 03:05:22 +0000",
       "minecraft:birch_forest": "2025-08-21 02:11:18 +0000",
       "minecraft:windswept_hills": "2025-08-22 20:45:28 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-08-22 21:16:48 +0000",
@@ -3368,6 +3370,78 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-08-23 01:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-08-23 01:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-08-23 01:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-08-23 01:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-08-23 01:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-08-23 01:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-08-23 01:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-08-23 01:57:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-23 02:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-23 02:13:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-08-23 02:38:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-08-23 02:38:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2025-08-23 02:42:27 +0000"
@@ -3392,18 +3466,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-08-23 01:57:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2025-08-23 01:57:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-23 02:42:27 +0000"
@@ -3416,18 +3478,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2025-08-23 01:57:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz": {
-    "criteria": {
-      "has_nether_quartz_ore": "2025-08-23 02:38:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-23 02:42:27 +0000"
@@ -3437,12 +3487,6 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-23 02:42:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-08-23 01:57:30 +0000"
     },
     "done": true
   },
@@ -3470,51 +3514,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-08-23 02:13:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/note_block": {
-    "criteria": {
-      "has_redstone": "2025-08-23 01:57:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-08-23 02:13:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/target": {
-    "criteria": {
-      "has_redstone": "2025-08-23 01:57:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/quartz_from_blasting": {
-    "criteria": {
-      "has_nether_quartz_ore": "2025-08-23 02:38:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-08-23 01:57:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-23 02:42:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2025-08-23 01:57:30 +0000"
     },
     "done": true
   },
