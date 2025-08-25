@@ -7,27 +7,33 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:beach": "2025-08-20 23:28:56 +0000",
-      "minecraft:dark_forest": "2025-08-22 20:37:55 +0000",
+      "minecraft:cold_ocean": "2025-08-25 22:56:18 +0000",
       "minecraft:forest": "2025-08-21 02:09:20 +0000",
-      "minecraft:sparse_jungle": "2025-08-20 23:31:30 +0000",
       "minecraft:deep_ocean": "2025-08-22 20:27:22 +0000",
-      "minecraft:river": "2025-08-20 15:23:16 +0000",
-      "minecraft:lukewarm_ocean": "2025-08-20 23:29:17 +0000",
-      "minecraft:stony_shore": "2025-08-22 21:09:25 +0000",
-      "minecraft:old_growth_birch_forest": "2025-08-22 19:24:22 +0000",
+      "minecraft:deep_cold_ocean": "2025-08-25 22:56:23 +0000",
+      "minecraft:ice_spikes": "2025-08-25 22:50:52 +0000",
+      "minecraft:frozen_ocean": "2025-08-25 22:52:31 +0000",
+      "minecraft:frozen_river": "2025-08-25 22:50:48 +0000",
       "minecraft:jungle": "2025-08-21 02:10:38 +0000",
       "minecraft:ocean": "2025-08-22 19:21:19 +0000",
-      "minecraft:swamp": "2025-08-22 20:46:14 +0000",
-      "minecraft:grove": "2025-08-23 03:05:33 +0000",
-      "minecraft:meadow": "2025-08-23 03:05:22 +0000",
       "minecraft:birch_forest": "2025-08-21 02:11:18 +0000",
       "minecraft:windswept_hills": "2025-08-22 20:45:28 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-08-22 21:16:48 +0000",
-      "minecraft:savanna": "2025-08-20 15:22:41 +0000",
       "minecraft:bamboo_jungle": "2025-08-22 20:37:00 +0000",
-      "minecraft:plains": "2025-08-20 23:29:28 +0000",
-      "minecraft:deep_lukewarm_ocean": "2025-08-21 02:08:41 +0000"
+      "minecraft:deep_lukewarm_ocean": "2025-08-21 02:08:41 +0000",
+      "minecraft:beach": "2025-08-20 23:28:56 +0000",
+      "minecraft:dark_forest": "2025-08-22 20:37:55 +0000",
+      "minecraft:sparse_jungle": "2025-08-20 23:31:30 +0000",
+      "minecraft:river": "2025-08-20 15:23:16 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-20 23:29:17 +0000",
+      "minecraft:stony_shore": "2025-08-22 21:09:25 +0000",
+      "minecraft:snowy_plains": "2025-08-25 22:50:22 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-22 19:24:22 +0000",
+      "minecraft:swamp": "2025-08-22 20:46:14 +0000",
+      "minecraft:grove": "2025-08-23 03:05:33 +0000",
+      "minecraft:meadow": "2025-08-23 03:05:22 +0000",
+      "minecraft:savanna": "2025-08-20 15:22:41 +0000",
+      "minecraft:plains": "2025-08-20 23:29:28 +0000"
     },
     "done": false
   },
@@ -1077,7 +1083,8 @@
       "minecraft:magma_cube": "2025-08-22 18:04:19 +0000",
       "minecraft:spider": "2025-08-20 23:11:08 +0000",
       "minecraft:piglin_brute": "2025-08-24 21:14:43 +0000",
-      "minecraft:zombie": "2025-08-20 23:23:58 +0000"
+      "minecraft:zombie": "2025-08-20 23:23:58 +0000",
+      "minecraft:creeper": "2025-08-25 22:51:35 +0000"
     },
     "done": false
   },
@@ -3778,6 +3785,12 @@
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-08-25 22:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-08-25 22:50:08 +0000"
     },
     "done": true
   },
