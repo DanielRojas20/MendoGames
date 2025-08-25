@@ -20,6 +20,7 @@
       "minecraft:windswept_hills": "2025-08-22 20:45:28 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-08-22 21:16:48 +0000",
       "minecraft:bamboo_jungle": "2025-08-22 20:37:00 +0000",
+      "minecraft:warm_ocean": "2025-08-25 23:06:03 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-21 02:08:41 +0000",
       "minecraft:beach": "2025-08-20 23:28:56 +0000",
       "minecraft:dark_forest": "2025-08-22 20:37:55 +0000",
@@ -1084,7 +1085,8 @@
       "minecraft:spider": "2025-08-20 23:11:08 +0000",
       "minecraft:piglin_brute": "2025-08-24 21:14:43 +0000",
       "minecraft:zombie": "2025-08-20 23:23:58 +0000",
-      "minecraft:creeper": "2025-08-25 22:51:35 +0000"
+      "minecraft:creeper": "2025-08-25 22:51:35 +0000",
+      "minecraft:drowned": "2025-08-25 23:04:48 +0000"
     },
     "done": false
   },
@@ -3590,6 +3592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-08-25 23:00:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-08-25 22:20:55 +0000"
@@ -3608,6 +3616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-08-25 23:15:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2025-08-25 22:20:55 +0000"
@@ -3623,6 +3637,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-25 22:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-08-25 23:15:47 +0000"
     },
     "done": true
   },
@@ -3662,9 +3682,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-25 23:00:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-08-25 22:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-08-25 23:15:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-08-25 23:15:49 +0000"
     },
     "done": true
   },
@@ -3689,6 +3727,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-25 22:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-25 23:15:49 +0000"
     },
     "done": true
   },
@@ -3734,9 +3778,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-08-25 23:15:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2025-08-25 22:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-08-25 23:15:47 +0000"
     },
     "done": true
   },
@@ -3776,9 +3832,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-25 23:15:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-08-25 22:36:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-25 23:15:49 +0000"
     },
     "done": true
   },
@@ -3791,6 +3859,12 @@
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2025-08-25 22:50:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-08-25 23:15:49 +0000"
     },
     "done": true
   },
@@ -3833,6 +3907,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-25 22:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-25 23:15:49 +0000"
     },
     "done": true
   },
