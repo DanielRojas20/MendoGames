@@ -38,3 +38,25 @@
 [22:01:08] [Server thread/INFO]: [Not Secure] <edinson123pro> la delegada jajajajajajajaja
 [22:03:20] [Server thread/INFO]: DarkJunior lost connection: Disconnected
 [22:03:20] [Server thread/INFO]: DarkJunior left the game
+[22:13:16] [Server thread/INFO]: DarkJunior[/100.68.250.116:50992] logged in with entity id 4556 at (769.1058590250605, 63.0, -478.6040701662672)
+[22:13:16] [Server thread/INFO]: DarkJunior joined the game
+[22:22:07] [Server thread/INFO]: VICTOR[/100.84.205.84:60758] logged in with entity id 7967 at (-1530.4039622021708, 61.5625, 389.5)
+[22:22:07] [Server thread/INFO]: VICTOR joined the game
+[22:24:43] [Server thread/INFO]: [VICTOR: Made DarkJunior a server operator]
+[22:24:46] [Server thread/INFO]: [VICTOR: Made edinson123pro a server operator]
+[22:25:07] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1534, y=60, z=389} jb{x=-1535, y=61, z=389}
+[22:27:13] [Server thread/INFO]: DarkJunior has made the advancement [Oh Shiny]
+[22:30:18] [Server thread/INFO]: [Not Secure] <VICTOR> LEONARDO FERNANDO, NINA YAMPI
+[22:31:13] [Server thread/INFO]: DarkJunior has made the advancement [Hidden in the Depths]
+[22:33:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[22:33:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1438, y=57, z=-664} jb{x=1467, y=55, z=-666}
+[22:36:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=1454, y=39, z=-666} jb{x=1453, y=38, z=-661}
+[22:37:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1486, y=67, z=469} jb{x=-1486, y=66, z=470}
+[22:37:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1486, y=67, z=469} jb{x=-1486, y=66, z=470}
+[22:37:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1486, y=67, z=469} jb{x=-1486, y=66, z=470}
+[22:38:05] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1491, y=67, z=467} jb{x=-1492, y=67, z=467}
+[22:41:09] [Server thread/INFO]: DarkJunior has made the advancement [Who is Cutting Onions?]
+[22:47:49] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[22:47:49] [Server thread/INFO]: edinson123pro left the game
+[22:47:57] [Server thread/INFO]: edinson123pro[/100.87.157.5:53752] logged in with entity id 21299 at (-1741.72584264399, 79.0, 564.5201817352873)
+[22:47:57] [Server thread/INFO]: edinson123pro joined the game

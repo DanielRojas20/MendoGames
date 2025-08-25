@@ -2754,9 +2754,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
-      "has_deepslate_diamond_ore": "2025-08-24 21:37:51 +0000"
+      "has_netherite_upgrade_smithing_template": "2025-08-24 21:26:25 +0000"
     },
     "done": true
   },
@@ -2766,15 +2766,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "has_raw_iron": "2025-08-24 21:34:34 +0000"
+      "has_glowstone_dust": "2025-08-24 21:34:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-08-24 21:26:25 +0000"
+      "has_glowstone_dust": "2025-08-24 21:34:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-24 21:34:34 +0000"
     },
     "done": true
   },
@@ -2790,15 +2796,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
     "criteria": {
-      "has_glowstone_dust": "2025-08-24 21:34:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-08-24 21:34:04 +0000"
+      "has_deepslate_diamond_ore": "2025-08-24 21:37:51 +0000"
     },
     "done": true
   },
