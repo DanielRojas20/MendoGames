@@ -2974,6 +2974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-08-26 18:55:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-08-26 17:57:41 +0000"
@@ -3070,6 +3076,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-08-26 18:55:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-08-26 17:57:41 +0000"
@@ -3094,9 +3106,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-08-26 18:55:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-08-26 17:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2025-08-26 18:55:51 +0000"
     },
     "done": true
   },
