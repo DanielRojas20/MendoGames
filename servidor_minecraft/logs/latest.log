@@ -91,3 +91,5 @@
 [18:58:20] [Server thread/WARN]: VICTOR moved wrongly!
 [19:03:14] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-10, y=43, z=362} jb{x=-8, y=42, z=362}
 [19:08:59] [Server thread/WARN]: VICTOR moved wrongly!
+[19:18:16] [Server thread/INFO]: Named entity crm['Menmide'/39102, l='ServerLevel[world]', x=-8.51, y=41.25, z=361.49] died: Menmide was slain by Enderman
+[19:19:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-10, y=42, z=362} jb{x=-25, y=39, z=346}
