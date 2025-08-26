@@ -53,3 +53,10 @@
 [18:10:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1370, y=58, z=301} jb{x=-1370, y=59, z=301}
 [18:10:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1370, y=58, z=301} jb{x=-1370, y=59, z=301}
 [18:12:21] [Server thread/INFO]: VICTOR has made the advancement [Ol' Betsy]
+[18:25:55] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-8, y=6, z=362}
+[18:26:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[18:26:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-11, y=7, z=359}
+[18:27:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-8, y=7, z=362}
+[18:27:22] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-11, y=9, z=359}
+[18:27:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-7, y=9, z=359}
+[18:27:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-11, y=9, z=363}
