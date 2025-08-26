@@ -29,6 +29,7 @@
       "minecraft:lukewarm_ocean": "2025-08-20 23:29:17 +0000",
       "minecraft:stony_shore": "2025-08-22 21:09:25 +0000",
       "minecraft:snowy_plains": "2025-08-25 22:50:22 +0000",
+      "minecraft:dripstone_caves": "2025-08-26 19:57:24 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-22 19:24:22 +0000",
       "minecraft:swamp": "2025-08-22 20:46:14 +0000",
       "minecraft:grove": "2025-08-23 03:05:33 +0000",
@@ -4022,6 +4023,18 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-08-26 18:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-26 20:03:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-08-26 20:03:11 +0000"
     },
     "done": true
   },
