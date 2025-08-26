@@ -2998,6 +2998,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-08-26 18:06:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-08-26 17:57:41 +0000"
@@ -3046,6 +3052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-26 18:06:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-08-26 17:57:41 +0000"
@@ -3067,6 +3079,12 @@
   "minecraft:recipes/decorations/orange_shulker_box": {
     "criteria": {
       "has_shulker_box": "2025-08-26 17:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-08-26 18:12:21 +0000"
     },
     "done": true
   },
