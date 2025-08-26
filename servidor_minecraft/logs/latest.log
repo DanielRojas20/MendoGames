@@ -60,3 +60,13 @@
 [18:27:22] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-11, y=9, z=359}
 [18:27:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-7, y=9, z=359}
 [18:27:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-11, y=9, z=363}
+[18:31:51] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-6, y=1, z=359}
+[18:32:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-11, y=21, z=359}
+[18:33:19] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-10, y=23, z=362}
+[18:33:44] [Server thread/INFO]: VICTOR was doomed to fall
+[18:34:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-10, y=25, z=360}
+[18:34:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-8, y=27, z=362}
+[18:34:34] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-10, y=27, z=362}
+[18:36:55] [Server thread/INFO]: VICTOR has made the advancement [A Throwaway Joke]
+[18:38:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-9, y=0, z=359} jb{x=-10, y=33, z=360}
+[18:38:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-9, y=0, z=359} jb{x=-8, y=33, z=360}
