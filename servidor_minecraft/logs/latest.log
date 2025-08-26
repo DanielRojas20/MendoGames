@@ -1,95 +1,46 @@
-[17:56:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[17:56:39] [ServerMain/INFO]: Loaded 1407 recipes
-[17:56:39] [ServerMain/INFO]: Loaded 1520 advancements
-[17:56:39] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[17:56:39] [Server thread/INFO]: Loading properties
-[17:56:39] [Server thread/INFO]: Default game type: SURVIVAL
-[17:56:39] [Server thread/INFO]: Generating keypair
-[17:56:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[17:56:40] [Server thread/INFO]: Using epoll channel type
-[17:56:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:56:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[17:56:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:56:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:56:40] [Server thread/INFO]: Preparing level "world"
-[17:56:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[17:56:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[17:56:47] [Worker-Main-1/INFO]: Preparing spawn area: 59%
-[17:56:48] [Server thread/INFO]: Time elapsed: 7206 ms
-[17:56:48] [Server thread/INFO]: Done (7.778s)! For help, type "help"
-[17:56:48] [Server thread/INFO]: DarkJunior (/100.68.250.116:51343) lost connection: Disconnected
-[17:56:52] [Server thread/INFO]: VICTOR[/100.84.205.84:53273] logged in with entity id 17 at (-1370.507332133149, 43.0, 298.4763783256019)
-[17:56:52] [Server thread/INFO]: VICTOR joined the game
-[17:57:15] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
-[17:57:42] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
-[17:57:42] [Server thread/INFO]: DarkJunior[/100.68.250.116:51380] logged in with entity id 619 at (-1515.3394484036344, 66.0, 381.44200369142703)
-[17:57:42] [Server thread/INFO]: DarkJunior joined the game
-[18:05:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1499, y=64, z=330} jb{x=-1499, y=62, z=330}
-[18:05:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1499, y=64, z=330} jb{x=-1499, y=62, z=330}
-[18:05:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1499, y=64, z=330} jb{x=-1499, y=62, z=330}
-[18:09:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1379, y=68, z=216} jb{x=-1378, y=67, z=214}
-[18:09:17] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1375, y=67, z=217} jb{x=-1375, y=65, z=217}
-[18:09:18] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1374, y=67, z=217} jb{x=-1375, y=65, z=217}
-[18:09:18] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1374, y=65, z=216} jb{x=-1375, y=65, z=217}
-[18:09:18] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1375, y=64, z=215} jb{x=-1375, y=65, z=217}
-[18:09:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1384, y=66, z=197} jb{x=-1385, y=65, z=198}
-[18:09:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1384, y=66, z=197} jb{x=-1385, y=65, z=198}
-[18:10:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1384, y=66, z=201} jb{x=-1384, y=68, z=201}
-[18:10:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1384, y=66, z=201} jb{x=-1384, y=68, z=201}
-[18:10:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1384, y=66, z=201} jb{x=-1384, y=68, z=201}
-[18:10:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1370, y=58, z=301} jb{x=-1370, y=59, z=301}
-[18:10:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1370, y=58, z=301} jb{x=-1370, y=59, z=301}
-[18:12:21] [Server thread/INFO]: VICTOR has made the advancement [Ol' Betsy]
-[18:25:55] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-8, y=6, z=362}
-[18:26:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
-[18:26:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-11, y=7, z=359}
-[18:27:02] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-8, y=7, z=362}
-[18:27:22] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-11, y=9, z=359}
-[18:27:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-7, y=9, z=359}
-[18:27:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-11, y=9, z=363}
-[18:31:51] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-6, y=1, z=359}
-[18:32:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-11, y=21, z=359}
-[18:33:19] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-10, y=23, z=362}
-[18:33:44] [Server thread/INFO]: VICTOR was doomed to fall
-[18:34:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-10, y=25, z=360}
-[18:34:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-8, y=27, z=362}
-[18:34:34] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=1, z=360} jb{x=-10, y=27, z=362}
-[18:36:55] [Server thread/INFO]: VICTOR has made the advancement [A Throwaway Joke]
-[18:38:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-9, y=0, z=359} jb{x=-10, y=33, z=360}
-[18:38:36] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-9, y=0, z=359} jb{x=-8, y=33, z=360}
-[18:38:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-9, y=0, z=359} jb{x=-10, y=33, z=361}
-[18:38:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-6, y=1, z=361} jb{x=-9, y=32, z=363}
-[18:38:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-9, y=0, z=359} jb{x=-7, y=34, z=363}
-[18:38:53] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=33, z=359} jb{x=-8, y=35, z=360}
-[18:38:57] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=33, z=359} jb{x=-10, y=35, z=360}
-[18:39:07] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=33, z=359} jb{x=-10, y=36, z=362}
-[18:40:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-7, y=33, z=359} jb{x=-9, y=39, z=358}
-[18:41:31] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
-[18:41:32] [Server thread/INFO]: VICTOR fell out of the world
-[18:41:34] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
-[18:41:46] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
-[18:41:50] [Server thread/INFO]: [VICTOR: Teleported VICTOR to DarkJunior]
-[18:44:56] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
-[18:45:18] [Server thread/INFO]: [VICTOR: Removed 1 item(s) from player VICTOR]
-[18:45:58] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
-[18:46:05] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
-[18:47:18] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-9, y=38, z=367} jb{x=-6, y=39, z=363}
-[18:51:07] [Server thread/INFO]: [Not Secure] <VICTOR> blocks
-[18:58:20] [Server thread/WARN]: VICTOR moved wrongly!
-[19:03:14] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-10, y=43, z=362} jb{x=-8, y=42, z=362}
-[19:08:59] [Server thread/WARN]: VICTOR moved wrongly!
-[19:18:16] [Server thread/INFO]: Named entity crm['Menmide'/39102, l='ServerLevel[world]', x=-8.51, y=41.25, z=361.49] died: Menmide was slain by Enderman
-[19:19:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-10, y=42, z=362} jb{x=-25, y=39, z=346}
+[19:33:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:33:29] [ServerMain/INFO]: Loaded 1407 recipes
+[19:33:29] [ServerMain/INFO]: Loaded 1520 advancements
+[19:33:29] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[19:33:29] [Server thread/INFO]: Loading properties
+[19:33:29] [Server thread/INFO]: Default game type: SURVIVAL
+[19:33:29] [Server thread/INFO]: Generating keypair
+[19:33:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:33:30] [Server thread/INFO]: Using epoll channel type
+[19:33:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:33:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:33:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:33:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:33:30] [Server thread/INFO]: Preparing level "world"
+[19:33:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:33:41] [Server thread/INFO]: Time elapsed: 10524 ms
+[19:33:41] [Server thread/INFO]: Done (11.039s)! For help, type "help"
+[19:33:46] [Server thread/INFO]: VICTOR[/100.84.205.84:56397] logged in with entity id 17 at (-14.4935708910246, 39.0, 361.0060211646927)
+[19:33:46] [Server thread/INFO]: VICTOR joined the game
+[19:34:12] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[19:34:39] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[19:34:50] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[19:35:23] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[19:35:33] [Server thread/INFO]: DarkJunior[/100.68.250.116:52214] logged in with entity id 561 at (-7.564952521492563, 39.0, 361.34155580858663)
+[19:35:33] [Server thread/INFO]: DarkJunior joined the game
