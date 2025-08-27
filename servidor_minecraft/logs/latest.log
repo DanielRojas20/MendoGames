@@ -1,83 +1,51 @@
-[19:33:26] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:33:29] [ServerMain/INFO]: Loaded 1407 recipes
-[19:33:29] [ServerMain/INFO]: Loaded 1520 advancements
-[19:33:29] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[19:33:29] [Server thread/INFO]: Loading properties
-[19:33:29] [Server thread/INFO]: Default game type: SURVIVAL
-[19:33:29] [Server thread/INFO]: Generating keypair
-[19:33:30] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:33:30] [Server thread/INFO]: Using epoll channel type
-[19:33:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:33:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:33:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:33:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:33:30] [Server thread/INFO]: Preparing level "world"
-[19:33:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:40] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:33:41] [Server thread/INFO]: Time elapsed: 10524 ms
-[19:33:41] [Server thread/INFO]: Done (11.039s)! For help, type "help"
-[19:33:46] [Server thread/INFO]: VICTOR[/100.84.205.84:56397] logged in with entity id 17 at (-14.4935708910246, 39.0, 361.0060211646927)
-[19:33:46] [Server thread/INFO]: VICTOR joined the game
-[19:34:12] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
-[19:34:39] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
-[19:34:50] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
-[19:35:23] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
-[19:35:33] [Server thread/INFO]: DarkJunior[/100.68.250.116:52214] logged in with entity id 561 at (-7.564952521492563, 39.0, 361.34155580858663)
-[19:35:33] [Server thread/INFO]: DarkJunior joined the game
-[20:04:58] [Server thread/INFO]: [Not Secure] <VICTOR> Me ire afk un momento
-[20:05:05] [Server thread/INFO]: [Not Secure] <VICTOR> me saldre del juegoi dxd
-[20:05:09] [Server thread/INFO]: VICTOR lost connection: Disconnected
-[20:05:09] [Server thread/INFO]: VICTOR left the game
-[20:26:51] [Server thread/INFO]: VICTOR[/100.84.205.84:58115] logged in with entity id 23368 at (-5.699999988079071, 1.0, 361.9558488854519)
-[20:26:51] [Server thread/INFO]: VICTOR joined the game
-[20:27:00] [Server thread/INFO]: [Not Secure] <VICTOR> ando camimando
-[20:27:13] [Server thread/INFO]: VICTOR lost connection: Disconnected
-[20:27:13] [Server thread/INFO]: VICTOR left the game
-[20:41:54] [Server thread/INFO]: VICTOR[/100.84.205.84:58611] logged in with entity id 32031 at (-6.064177635612818, 1.0, 365.9786393261443)
-[20:41:54] [Server thread/INFO]: VICTOR joined the game
-[20:58:57] [Server thread/INFO]: VICTOR lost connection: Disconnected
-[20:58:57] [Server thread/INFO]: VICTOR left the game
-[20:59:00] [Server thread/INFO]: VICTOR[/100.84.205.84:59154] logged in with entity id 40254 at (-5.246614481217532, 1.0, 362.2599790310332)
-[20:59:00] [Server thread/INFO]: VICTOR joined the game
-[21:14:17] [Server thread/INFO]: edinson123pro[/100.87.157.5:60489] logged in with entity id 50583 at (-1539.0610467716494, 64.0, 454.9844161440238)
-[21:14:17] [Server thread/INFO]: edinson123pro joined the game
-[21:14:36] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[21:14:36] [Server thread/INFO]: edinson123pro left the game
-[21:16:14] [Server thread/INFO]: edinson123pro[/100.87.157.5:60619] logged in with entity id 51346 at (-1530.1405424887566, 65.0, 459.80620590971637)
-[21:16:14] [Server thread/INFO]: edinson123pro joined the game
-[21:16:31] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[21:16:31] [Server thread/INFO]: edinson123pro left the game
-[21:16:40] [Server thread/INFO]: edinson123pro[/100.87.157.5:60648] logged in with entity id 51851 at (-1539.7390904458218, 65.0, 457.9089789386147)
-[21:16:40] [Server thread/INFO]: edinson123pro joined the game
-[21:17:44] [Server thread/INFO]: edinson123pro was slain by DarkJunior
-[21:18:05] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[21:18:05] [Server thread/INFO]: edinson123pro left the game
-[21:18:11] [Server thread/INFO]: edinson123pro[/100.87.157.5:60704] logged in with entity id 52595 at (-1544.414579837885, 67.0, 458.7243105005196)
-[21:18:11] [Server thread/INFO]: edinson123pro joined the game
-[21:19:02] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[21:19:02] [Server thread/INFO]: edinson123pro left the game
-[21:19:28] [Server thread/INFO]: edinson123pro[/100.87.157.5:60767] logged in with entity id 52879 at (-1530.7356713834336, 67.0, 473.94537365014185)
-[21:19:28] [Server thread/INFO]: edinson123pro joined the game
-[21:19:49] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[21:19:49] [Server thread/INFO]: edinson123pro left the game
-[21:26:05] [Server thread/INFO]: DarkJunior has made the advancement [Crafting a New Look]
+[01:09:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:09:46] [ServerMain/INFO]: Loaded 1407 recipes
+[01:09:46] [ServerMain/INFO]: Loaded 1520 advancements
+[01:09:46] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[01:09:46] [Server thread/INFO]: Loading properties
+[01:09:46] [Server thread/INFO]: Default game type: SURVIVAL
+[01:09:46] [Server thread/INFO]: Generating keypair
+[01:09:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:09:47] [Server thread/INFO]: Using epoll channel type
+[01:09:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:09:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:09:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:09:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:09:47] [Server thread/INFO]: Preparing level "world"
+[01:09:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:09:56] [Server thread/INFO]: Time elapsed: 9264 ms
+[01:09:56] [Server thread/INFO]: Done (9.837s)! For help, type "help"
+[01:10:56] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:12:32] [Server thread/INFO]: DAKCR[/100.68.160.27:53506] logged in with entity id 17 at (-1540.8600485163945, 63.0, 361.30000001192093)
+[01:12:32] [Server thread/INFO]: DAKCR joined the game
+[01:12:44] [Server thread/INFO]: DarkJunior[/100.68.250.116:55177] logged in with entity id 276 at (-1594.7588288931959, 81.16610926093821, 421.3201935987383)
+[01:12:44] [Server thread/INFO]: DarkJunior joined the game
+[01:13:55] [Server thread/INFO]: [Not Secure] <DAKCR> era mio
+[01:14:01] [Server thread/INFO]: [Not Secure] <DarkJunior> te costo
+[01:14:04] [Server thread/INFO]: [Not Secure] <DAKCR> me robaste la kill}
+[01:15:27] [Server thread/INFO]: edinson123pro[/100.87.157.5:50567] logged in with entity id 1144 at (-1516.656317575151, 69.0, 462.85760190584125)
+[01:15:27] [Server thread/INFO]: edinson123pro joined the game
+[01:16:22] [Server thread/INFO]: [Not Secure] <DarkJunior> DC?
+[01:16:25] [Server thread/INFO]: [Not Secure] <edinson123pro> estoy
+[01:17:20] [Server thread/WARN]: DarkJunior moved wrongly!
+[01:17:20] [Server thread/WARN]: DarkJunior moved wrongly!
+[01:17:20] [Server thread/WARN]: DarkJunior moved wrongly!
