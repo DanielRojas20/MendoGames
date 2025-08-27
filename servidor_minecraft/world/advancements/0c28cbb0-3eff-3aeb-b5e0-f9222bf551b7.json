@@ -436,6 +436,8 @@
       "minecraft:pillager": "2025-08-22 00:45:13 +0000",
       "minecraft:skeleton": "2025-08-23 01:59:49 +0000",
       "minecraft:vindicator": "2025-08-22 02:38:58 +0000",
+      "minecraft:enderman": "2025-08-27 01:31:33 +0000",
+      "minecraft:silverfish": "2025-08-27 01:28:17 +0000",
       "minecraft:vex": "2025-08-22 02:39:51 +0000",
       "minecraft:zombie": "2025-08-23 01:59:53 +0000",
       "minecraft:creeper": "2025-08-22 00:30:48 +0000"
@@ -1697,6 +1699,18 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-08-27 01:27:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-08-27 01:28:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-08-27 01:16:06 +0000"
@@ -1742,6 +1756,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-08-27 01:24:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-08-27 01:28:34 +0000"
     },
     "done": true
   },

@@ -1077,6 +1077,7 @@
       "minecraft:blaze": "2025-08-22 18:09:42 +0000",
       "minecraft:pillager": "2025-08-26 22:32:40 +0000",
       "minecraft:skeleton": "2025-08-21 00:01:09 +0000",
+      "minecraft:phantom": "2025-08-27 01:37:07 +0000",
       "minecraft:zombified_piglin": "2025-08-22 18:18:29 +0000",
       "minecraft:wither_skeleton": "2025-08-22 18:10:58 +0000",
       "minecraft:ghast": "2025-08-25 22:38:29 +0000",
@@ -4104,6 +4105,24 @@
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
       "armor_trimmed_minecraft:spire_armor_trim_smithing_template_smithing_trim": "2025-08-26 21:26:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-27 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-08-27 01:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-08-27 01:43:16 +0000"
     },
     "done": true
   },
