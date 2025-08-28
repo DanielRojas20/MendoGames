@@ -441,7 +441,8 @@
       "minecraft:silverfish": "2025-08-27 01:28:17 +0000",
       "minecraft:vex": "2025-08-22 02:39:51 +0000",
       "minecraft:zombie": "2025-08-23 01:59:53 +0000",
-      "minecraft:creeper": "2025-08-22 00:30:48 +0000"
+      "minecraft:creeper": "2025-08-22 00:30:48 +0000",
+      "minecraft:ravager": "2025-08-28 02:42:18 +0000"
     },
     "done": false
   },
@@ -1919,6 +1920,18 @@
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-08-27 02:22:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-08-28 02:42:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-28 02:48:38 +0000"
     },
     "done": true
   },

@@ -1080,10 +1080,12 @@
       "minecraft:phantom": "2025-08-27 01:37:07 +0000",
       "minecraft:zombified_piglin": "2025-08-22 18:18:29 +0000",
       "minecraft:wither_skeleton": "2025-08-22 18:10:58 +0000",
+      "minecraft:ravager": "2025-08-28 02:47:10 +0000",
       "minecraft:ghast": "2025-08-25 22:38:29 +0000",
       "minecraft:hoglin": "2025-08-25 22:19:03 +0000",
       "minecraft:shulker": "2025-08-22 19:52:32 +0000",
       "minecraft:piglin": "2025-08-22 18:02:42 +0000",
+      "minecraft:vindicator": "2025-08-28 02:41:05 +0000",
       "minecraft:enderman": "2025-08-22 18:00:27 +0000",
       "minecraft:silverfish": "2025-08-22 19:36:47 +0000",
       "minecraft:magma_cube": "2025-08-22 18:04:19 +0000",
@@ -4141,6 +4143,18 @@
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2025-08-27 02:12:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-08-28 02:42:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-28 02:45:53 +0000"
     },
     "done": true
   },
