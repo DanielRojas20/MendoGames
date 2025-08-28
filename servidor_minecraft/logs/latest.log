@@ -1,87 +1,72 @@
-[02:50:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:50:25] [ServerMain/INFO]: Loaded 1407 recipes
-[02:50:25] [ServerMain/INFO]: Loaded 1520 advancements
-[02:50:25] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[02:50:25] [Server thread/INFO]: Loading properties
-[02:50:25] [Server thread/INFO]: Default game type: SURVIVAL
-[02:50:25] [Server thread/INFO]: Generating keypair
-[02:50:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:50:25] [Server thread/INFO]: Using epoll channel type
-[02:50:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:50:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:50:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:50:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:50:25] [Server thread/INFO]: Preparing level "world"
-[02:50:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:50:33] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[02:50:33] [Server thread/INFO]: Time elapsed: 7560 ms
-[02:50:33] [Server thread/INFO]: Done (8.069s)! For help, type "help"
-[02:50:49] [Server thread/INFO]: DAKCR[/100.68.160.27:51962] logged in with entity id 55 at (-1515.5217301591595, 62.9375, 364.79138824298514)
-[02:50:49] [Server thread/INFO]: DAKCR joined the game
-[02:51:40] [Server thread/INFO]: edinson123pro[/100.87.157.5:61169] logged in with entity id 707 at (-1522.1411798749698, 63.0, 365.8404551191412)
-[02:51:40] [Server thread/INFO]: edinson123pro joined the game
-[02:51:40] [Server thread/INFO]: DarkJunior[/100.68.250.116:53783] logged in with entity id 711 at (-176.92907600424857, 94.0, 34.06646671440615)
-[02:51:40] [Server thread/INFO]: DarkJunior joined the game
-[02:52:06] [Server thread/INFO]: [Not Secure] <DAKCR> como se ve cuantitimepo tiene una posicion que ya me e tomado
-[02:52:23] [Server thread/INFO]: [Not Secure] <DarkJunior> en el inventario
-[02:52:35] [Server thread/INFO]: [Not Secure] <edinson123pro> ?
-[02:52:39] [Server thread/INFO]: [Not Secure] <DarkJunior> ?!!!
-[02:52:41] [Server thread/INFO]: [Not Secure] <DAKCR> ?'''??
-[02:52:51] [Server thread/INFO]: [Not Secure] <DAKCR> men esta ves no e tomado
-[02:52:56] [Server thread/INFO]: [Not Secure] <DAKCR> ni una pocion
-[02:53:03] [Server thread/INFO]: [Not Secure] <edinson123pro> regreso en el timepo?
-[02:58:47] [Server thread/INFO]: VICTOR[/100.84.205.84:50566] logged in with entity id 3922 at (-1522.671912011492, 62.9375, 377.69999998807907)
-[02:58:47] [Server thread/INFO]: VICTOR joined the game
-[02:58:52] [Server thread/INFO]: [Not Secure] <VICTOR> solo un prime
-[03:00:39] [Server thread/INFO]: [Not Secure] <edinson123pro> gracias
-[03:01:30] [Server thread/INFO]: edinson123pro was burned to a crisp while fighting VICTOR
-[03:02:45] [Server thread/INFO]: edinson123pro was shot by VICTOR
-[03:02:54] [Server thread/INFO]: VICTOR lost connection: Kicked by an operator
-[03:02:54] [Server thread/INFO]: VICTOR left the game
-[03:02:54] [Server thread/INFO]: [edinson123pro: Kicked VICTOR: Kicked by an operator]
-[03:02:54] [Server thread/WARN]: handleDisconnection() called twice
-[03:02:56] [Server thread/INFO]: VICTOR[/100.84.205.84:50697] logged in with entity id 6548 at (-1530.8798847031426, 63.48980413352658, 369.44925812450884)
-[03:02:56] [Server thread/INFO]: VICTOR joined the game
-[03:03:07] [Server thread/INFO]: [Not Secure] <VICTOR> perdon ajaj
-[03:03:15] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-1524, y=63, z=352}
-[03:03:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2250ms or 45 ticks behind
-[03:04:00] [Server thread/INFO]: [Not Secure] <DAKCR> edinson
-[03:04:03] [Server thread/INFO]: [Not Secure] <edinson123pro> dime
-[03:04:05] [Server thread/INFO]: [Not Secure] <DAKCR> porque no te cehtas
-[03:04:20] [Server thread/INFO]: [Not Secure] <edinson123pro> estoy esperando a que se rompa todo para hacerme el max
-[03:04:23] [Server thread/INFO]: [Not Secure] <edinson123pro> ya falta poco
-[03:04:32] [Server thread/INFO]: [Not Secure] <DAKCR> tea yudo?
-[03:04:47] [Server thread/INFO]: [Not Secure] <edinson123pro> dale, estoy aplanando toda la aldean
-[03:04:58] [Server thread/INFO]: edinson123pro was slain by DAKCR
-[03:05:11] [Server thread/INFO]: [Not Secure] <DAKCR> dijiste que te ayude
-[03:05:19] [Server thread/INFO]: [Not Secure] <DAKCR> a romperr tu armadura
-[03:05:37] [Server thread/INFO]: [Not Secure] <edinson123pro> la aldea jqja
-[03:06:40] [Server thread/INFO]: [Not Secure] <VICTOR> bro
-[03:06:43] [Server thread/INFO]: [Not Secure] <VICTOR> no tolerare una mas
-[03:07:46] [Server thread/INFO]: DAKCR lost connection: Disconnected
-[03:07:46] [Server thread/INFO]: DAKCR left the game
-[03:07:48] [Server thread/INFO]: DAKCR[/100.68.160.27:52725] logged in with entity id 9708 at (-1533.300000011921, 63.0, 361.69999998807907)
-[03:07:48] [Server thread/INFO]: DAKCR joined the game
-[03:08:04] [Server thread/INFO]: VICTOR has reached the goal [Beaconator]
-[03:08:04] [Server thread/INFO]: VICTOR has made the advancement [Bring Home the Beacon]
-[03:09:47] [Server thread/INFO]: [DarkJunior: The difficulty has been set to Hard]
-[03:12:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1468, y=66, z=357} jb{x=-1468, y=65, z=356}
-[03:12:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1468, y=66, z=357} jb{x=-1468, y=65, z=356}
-[03:12:50] [Server thread/INFO]: DarkJunior lost connection: Disconnected
-[03:12:50] [Server thread/INFO]: DarkJunior left the game
-[03:17:51] [Server thread/INFO]: DAKCR lost connection: Disconnected
-[03:17:51] [Server thread/INFO]: DAKCR left the game
+[04:11:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:11:51] [ServerMain/INFO]: Loaded 1407 recipes
+[04:11:51] [ServerMain/INFO]: Loaded 1520 advancements
+[04:11:51] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[04:11:51] [Server thread/INFO]: Loading properties
+[04:11:51] [Server thread/INFO]: Default game type: SURVIVAL
+[04:11:51] [Server thread/INFO]: Generating keypair
+[04:11:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:11:52] [Server thread/INFO]: Using epoll channel type
+[04:11:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:11:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:11:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:11:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:11:52] [Server thread/INFO]: Preparing level "world"
+[04:11:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:12:02] [Server thread/INFO]: Time elapsed: 9644 ms
+[04:12:02] [Server thread/INFO]: Done (10.217s)! For help, type "help"
+[04:12:02] [Server thread/INFO]: edinson123pro (/100.87.157.5:56361) lost connection: Disconnected
+[04:12:29] [Server thread/WARN]: UUID of added entity already exists: cuf['Librarian'/106, l='ServerLevel[world]', x=-1527.17, y=61.00, z=381.42]
+[04:12:29] [Server thread/WARN]: UUID of added entity already exists: cuf['Toolsmith'/107, l='ServerLevel[world]', x=-1527.03, y=61.88, z=382.21]
+[04:12:29] [Server thread/WARN]: UUID of added entity already exists: cuf['Fletcher'/108, l='ServerLevel[world]', x=-1529.54, y=61.00, z=382.89]
+[04:12:29] [Server thread/WARN]: UUID of added entity already exists: cuf['Librarian'/111, l='ServerLevel[world]', x=-1533.19, y=61.00, z=383.64]
+[04:12:29] [Server thread/INFO]: edinson123pro[/100.87.157.5:58729] logged in with entity id 15 at (-1522.0010534405728, 64.9375, 380.2579276491502)
+[04:12:29] [Server thread/INFO]: edinson123pro joined the game
+[04:12:30] [Server thread/INFO]: VICTOR[/100.84.205.84:52990] logged in with entity id 151 at (-1540.1963715314075, 62.9375, 378.83161334322)
+[04:12:30] [Server thread/INFO]: VICTOR joined the game
+[04:13:56] [Server thread/INFO]: DarkJunior[/100.68.250.116:64015] logged in with entity id 786 at (-1476.7873440100477, 64.0, 364.3110715288882)
+[04:13:56] [Server thread/INFO]: DarkJunior joined the game
+[04:14:01] [Server thread/INFO]: [Not Secure] <DarkJunior> bro
+[04:14:04] [Server thread/INFO]: [Not Secure] <DarkJunior> dan asco
+[04:14:38] [Server thread/INFO]: [VICTOR: The difficulty has been set to Hard]
+[04:15:12] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[04:15:12] [Server thread/INFO]: edinson123pro left the game
+[04:15:31] [Server thread/INFO]: edinson123pro[/100.87.157.5:49972] logged in with entity id 1451 at (-1535.5651646746971, 63.466347503721714, 370.0422867042641)
+[04:15:31] [Server thread/INFO]: edinson123pro joined the game
+[04:15:56] [Server thread/INFO]: edinson123pro was slain by Vex
+[04:16:49] [Server thread/INFO]: [Not Secure] <DarkJunior> dañaron la granja
+[04:17:01] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[04:17:01] [Server thread/INFO]: edinson123pro left the game
+[04:18:49] [Server thread/INFO]: [Not Secure] <DarkJunior> que asco
+[04:18:52] [Server thread/INFO]: [Not Secure] <VICTOR> q paso?
+[04:18:55] [Server thread/INFO]: VICTOR has completed the challenge [Hero of the Village]
+[04:19:00] [Server thread/INFO]: [Not Secure] <VICTOR> dime
+[04:19:05] [Server thread/INFO]: [Not Secure] <DarkJunior> murieron
+[04:19:09] [Server thread/INFO]: [Not Secure] <VICTOR> quenes?
+[04:19:12] [Server thread/INFO]: [Not Secure] <DarkJunior> los de la granja de hierro
+[04:19:14] [Server thread/INFO]: [Not Secure] <VICTOR> los zmbies de heirr0?
+[04:19:48] [Server thread/INFO]: [Not Secure] <DarkJunior> el zombie que no tiene nametag vivio mas
+[04:20:13] [Server thread/INFO]: [Not Secure] <DarkJunior> el zombie que no tiene nametag vivio mas
+[04:20:21] [Server thread/INFO]: [Not Secure] <VICTOR> tienes cofre del end para mi=
+[04:20:30] [Server thread/INFO]: [Not Secure] <VICTOR> dame
+[04:20:42] [Server thread/INFO]: [Not Secure] <DarkJunior> porque dupean
+[04:21:31] [Server thread/INFO]: [Not Secure] <DarkJunior> y eso que vi que es?

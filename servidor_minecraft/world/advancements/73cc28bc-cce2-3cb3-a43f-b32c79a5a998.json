@@ -1079,6 +1079,7 @@
       "minecraft:skeleton": "2025-08-21 00:01:09 +0000",
       "minecraft:phantom": "2025-08-27 01:37:07 +0000",
       "minecraft:zombified_piglin": "2025-08-22 18:18:29 +0000",
+      "minecraft:witch": "2025-08-28 04:14:28 +0000",
       "minecraft:wither_skeleton": "2025-08-22 18:10:58 +0000",
       "minecraft:ravager": "2025-08-28 02:47:10 +0000",
       "minecraft:ghast": "2025-08-25 22:38:29 +0000",
@@ -1091,10 +1092,12 @@
       "minecraft:magma_cube": "2025-08-22 18:04:19 +0000",
       "minecraft:spider": "2025-08-20 23:11:08 +0000",
       "minecraft:piglin_brute": "2025-08-24 21:14:43 +0000",
+      "minecraft:vex": "2025-08-28 04:16:56 +0000",
       "minecraft:zombie": "2025-08-20 23:23:58 +0000",
       "minecraft:creeper": "2025-08-25 22:51:35 +0000",
       "minecraft:drowned": "2025-08-25 23:04:48 +0000",
-      "minecraft:wither": "2025-08-26 01:49:41 +0000"
+      "minecraft:wither": "2025-08-26 01:49:41 +0000",
+      "minecraft:evoker": "2025-08-28 04:16:16 +0000"
     },
     "done": false
   },

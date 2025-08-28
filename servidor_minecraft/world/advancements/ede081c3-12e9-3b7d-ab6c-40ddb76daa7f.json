@@ -410,6 +410,7 @@
       "minecraft:blaze": "2025-08-22 18:10:44 +0000",
       "minecraft:skeleton": "2025-08-20 23:20:35 +0000",
       "minecraft:zombified_piglin": "2025-08-22 18:31:31 +0000",
+      "minecraft:witch": "2025-08-28 04:02:12 +0000",
       "minecraft:wither_skeleton": "2025-08-22 18:10:21 +0000",
       "minecraft:ravager": "2025-08-28 02:56:47 +0000",
       "minecraft:shulker": "2025-08-22 19:52:39 +0000",
@@ -3923,12 +3924,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blast_furnace": {
-    "criteria": {
-      "has_smooth_stone": "2025-08-28 03:11:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-28 03:11:18 +0000"
@@ -4007,21 +4002,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-08-28 03:11:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-28 03:11:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-08-28 03:11:41 +0000"
     },
     "done": true
   },
@@ -4034,6 +4017,42 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-08-28 03:11:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-28 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-28 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-28 03:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-08-28 03:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-08-28 03:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-08-28 03:51:16 +0000"
     },
     "done": true
   },
