@@ -47,3 +47,41 @@
 [02:58:47] [Server thread/INFO]: VICTOR[/100.84.205.84:50566] logged in with entity id 3922 at (-1522.671912011492, 62.9375, 377.69999998807907)
 [02:58:47] [Server thread/INFO]: VICTOR joined the game
 [02:58:52] [Server thread/INFO]: [Not Secure] <VICTOR> solo un prime
+[03:00:39] [Server thread/INFO]: [Not Secure] <edinson123pro> gracias
+[03:01:30] [Server thread/INFO]: edinson123pro was burned to a crisp while fighting VICTOR
+[03:02:45] [Server thread/INFO]: edinson123pro was shot by VICTOR
+[03:02:54] [Server thread/INFO]: VICTOR lost connection: Kicked by an operator
+[03:02:54] [Server thread/INFO]: VICTOR left the game
+[03:02:54] [Server thread/INFO]: [edinson123pro: Kicked VICTOR: Kicked by an operator]
+[03:02:54] [Server thread/WARN]: handleDisconnection() called twice
+[03:02:56] [Server thread/INFO]: VICTOR[/100.84.205.84:50697] logged in with entity id 6548 at (-1530.8798847031426, 63.48980413352658, 369.44925812450884)
+[03:02:56] [Server thread/INFO]: VICTOR joined the game
+[03:03:07] [Server thread/INFO]: [Not Secure] <VICTOR> perdon ajaj
+[03:03:15] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=0, y=0, z=0} jb{x=-1524, y=63, z=352}
+[03:03:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2250ms or 45 ticks behind
+[03:04:00] [Server thread/INFO]: [Not Secure] <DAKCR> edinson
+[03:04:03] [Server thread/INFO]: [Not Secure] <edinson123pro> dime
+[03:04:05] [Server thread/INFO]: [Not Secure] <DAKCR> porque no te cehtas
+[03:04:20] [Server thread/INFO]: [Not Secure] <edinson123pro> estoy esperando a que se rompa todo para hacerme el max
+[03:04:23] [Server thread/INFO]: [Not Secure] <edinson123pro> ya falta poco
+[03:04:32] [Server thread/INFO]: [Not Secure] <DAKCR> tea yudo?
+[03:04:47] [Server thread/INFO]: [Not Secure] <edinson123pro> dale, estoy aplanando toda la aldean
+[03:04:58] [Server thread/INFO]: edinson123pro was slain by DAKCR
+[03:05:11] [Server thread/INFO]: [Not Secure] <DAKCR> dijiste que te ayude
+[03:05:19] [Server thread/INFO]: [Not Secure] <DAKCR> a romperr tu armadura
+[03:05:37] [Server thread/INFO]: [Not Secure] <edinson123pro> la aldea jqja
+[03:06:40] [Server thread/INFO]: [Not Secure] <VICTOR> bro
+[03:06:43] [Server thread/INFO]: [Not Secure] <VICTOR> no tolerare una mas
+[03:07:46] [Server thread/INFO]: DAKCR lost connection: Disconnected
+[03:07:46] [Server thread/INFO]: DAKCR left the game
+[03:07:48] [Server thread/INFO]: DAKCR[/100.68.160.27:52725] logged in with entity id 9708 at (-1533.300000011921, 63.0, 361.69999998807907)
+[03:07:48] [Server thread/INFO]: DAKCR joined the game
+[03:08:04] [Server thread/INFO]: VICTOR has reached the goal [Beaconator]
+[03:08:04] [Server thread/INFO]: VICTOR has made the advancement [Bring Home the Beacon]
+[03:09:47] [Server thread/INFO]: [DarkJunior: The difficulty has been set to Hard]
+[03:12:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1468, y=66, z=357} jb{x=-1468, y=65, z=356}
+[03:12:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1468, y=66, z=357} jb{x=-1468, y=65, z=356}
+[03:12:50] [Server thread/INFO]: DarkJunior lost connection: Disconnected
+[03:12:50] [Server thread/INFO]: DarkJunior left the game
+[03:17:51] [Server thread/INFO]: DAKCR lost connection: Disconnected
+[03:17:51] [Server thread/INFO]: DAKCR left the game
