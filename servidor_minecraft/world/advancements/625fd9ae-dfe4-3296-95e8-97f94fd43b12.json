@@ -3325,6 +3325,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-28 03:21:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-08-28 03:14:59 +0000"
@@ -3334,6 +3340,12 @@
   "minecraft:nether/create_full_beacon": {
     "criteria": {
       "beacon": "2025-08-28 03:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-28 03:21:53 +0000"
     },
     "done": true
   },
