@@ -1,203 +1,80 @@
-[01:09:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:09:46] [ServerMain/INFO]: Loaded 1407 recipes
-[01:09:46] [ServerMain/INFO]: Loaded 1520 advancements
-[01:09:46] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[01:09:46] [Server thread/INFO]: Loading properties
-[01:09:46] [Server thread/INFO]: Default game type: SURVIVAL
-[01:09:46] [Server thread/INFO]: Generating keypair
-[01:09:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:09:47] [Server thread/INFO]: Using epoll channel type
-[01:09:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:09:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:09:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:09:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:09:47] [Server thread/INFO]: Preparing level "world"
-[01:09:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:09:56] [Server thread/INFO]: Time elapsed: 9264 ms
-[01:09:56] [Server thread/INFO]: Done (9.837s)! For help, type "help"
-[01:10:56] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[01:12:32] [Server thread/INFO]: DAKCR[/100.68.160.27:53506] logged in with entity id 17 at (-1540.8600485163945, 63.0, 361.30000001192093)
-[01:12:32] [Server thread/INFO]: DAKCR joined the game
-[01:12:44] [Server thread/INFO]: DarkJunior[/100.68.250.116:55177] logged in with entity id 276 at (-1594.7588288931959, 81.16610926093821, 421.3201935987383)
-[01:12:44] [Server thread/INFO]: DarkJunior joined the game
-[01:13:55] [Server thread/INFO]: [Not Secure] <DAKCR> era mio
-[01:14:01] [Server thread/INFO]: [Not Secure] <DarkJunior> te costo
-[01:14:04] [Server thread/INFO]: [Not Secure] <DAKCR> me robaste la kill}
-[01:15:27] [Server thread/INFO]: edinson123pro[/100.87.157.5:50567] logged in with entity id 1144 at (-1516.656317575151, 69.0, 462.85760190584125)
-[01:15:27] [Server thread/INFO]: edinson123pro joined the game
-[01:16:22] [Server thread/INFO]: [Not Secure] <DarkJunior> DC?
-[01:16:25] [Server thread/INFO]: [Not Secure] <edinson123pro> estoy
-[01:17:20] [Server thread/WARN]: DarkJunior moved wrongly!
-[01:17:20] [Server thread/WARN]: DarkJunior moved wrongly!
-[01:17:20] [Server thread/WARN]: DarkJunior moved wrongly!
-[01:19:41] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[01:19:41] [Server thread/INFO]: edinson123pro left the game
-[01:19:47] [Server thread/INFO]: [Not Secure] <DAKCR> xD
-[01:20:20] [Server thread/INFO]: edinson123pro[/100.87.157.5:50723] logged in with entity id 2313 at (-1513.9876684524756, 64.0, 438.3470141922216)
-[01:20:20] [Server thread/INFO]: edinson123pro joined the game
-[01:22:33] [Server thread/INFO]: [Not Secure] <DAKCR> hablen vamos a matar al warro
-[01:22:39] [Server thread/INFO]: [Not Secure] <DarkJunior> ???
-[01:22:45] [Server thread/INFO]: [Not Secure] <edinson123pro> a pacheco
-[01:22:51] [Server thread/INFO]: [Not Secure] <DAKCR> warden
-[01:23:43] [Server thread/INFO]: [Not Secure] <edinson123pro> ok
-[01:23:51] [Server thread/INFO]: [Not Secure] <DarkJunior> nc donde esta el warden
-[01:23:56] [Server thread/INFO]: [Not Secure] <DarkJunior> aun no lo encuentro
-[01:24:01] [Server thread/INFO]: [Not Secure] <DarkJunior> ya tenemos granja de EXP
-[01:24:10] [Server thread/INFO]: [Not Secure] <DarkJunior> en el end
-[01:24:13] [Server thread/INFO]: [Not Secure] <DAKCR> serio
-[01:24:16] [Server thread/INFO]: [Not Secure] <DAKCR> donde
-[01:24:24] [Server thread/INFO]: [Not Secure] <DAKCR> que ya me canse de farmear
-[01:24:33] [Server thread/INFO]: [Not Secure] <DarkJunior> ven sigueme
-[01:24:42] [Server thread/INFO]: [Not Secure] <DAKCR> pera
-[01:24:44] [Server thread/INFO]: [Not Secure] <DarkJunior> nc que farmeas tanto xd
-[01:25:00] [Server thread/INFO]: [Not Secure] <DAKCR> xp y esmeraldas al mismo tiempo xd
-[01:25:12] [Server thread/INFO]: [Not Secure] <DarkJunior> dame las esmeraldas para el beacon
-[01:25:19] [Server thread/INFO]: [Not Secure] <DarkJunior> luego si quieres lo agarras
-[01:25:29] [Server thread/INFO]: [Not Secure] <DarkJunior> despues de minar la montaña
-[01:25:47] [Server thread/INFO]: [Not Secure] <DAKCR> onta
-[01:25:52] [Server thread/INFO]: [Not Secure] <DAKCR> la granaj
-[01:25:57] [Server thread/INFO]: [Not Secure] <DarkJunior> dame las esmeraldas ffuego??
-[01:27:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2912ms or 58 ticks behind
-[01:27:55] [Server thread/INFO]: DAKCR has made the advancement [Eye Spy]
-[01:28:21] [Server thread/INFO]: [Not Secure] <DarkJunior> no rompas el spaner
-[01:28:34] [Server thread/INFO]: DAKCR has made the advancement [The End?]
-[01:29:34] [Server thread/INFO]: [Not Secure] <DarkJunior> ni se les ocurra caerse
-[01:29:57] [Server thread/INFO]: [Not Secure] <DAKCR> deberias hacerlo mas seguro
-[01:30:05] [Server thread/INFO]: [Not Secure] <DarkJunior> no
-[01:30:07] [Server thread/INFO]: [Not Secure] <DarkJunior> que paja
-[01:31:04] [Server thread/INFO]: [Not Secure] <DAKCR> weon
-[01:31:22] [Server thread/INFO]: [Not Secure] <DAKCR> no sabes el nervio que tube pa cruzar esta webada
-[01:31:27] [Server thread/INFO]: [Not Secure] <DarkJunior> jajajaj
-[01:31:28] [Server thread/INFO]: [Not Secure] <edinson123pro> lit
-[01:31:32] [Server thread/INFO]: [Not Secure] <edinson123pro> yo igual
-[01:31:43] [Server thread/INFO]: [Not Secure] <DarkJunior> con espada buena matas de un golpe
-[01:34:41] [Server thread/INFO]: [Not Secure] <DarkJunior> como es un server la eficiencia de la granja disminuye si estamos separados
-[01:35:13] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[01:35:13] [Server thread/INFO]: edinson123pro left the game
-[01:35:32] [Server thread/INFO]: edinson123pro[/100.87.157.5:51104] logged in with entity id 9831 at (-8.39089554138522, 1.0, 305.04293577898494)
-[01:35:32] [Server thread/INFO]: edinson123pro joined the game
-[01:35:34] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[01:35:34] [Server thread/INFO]: edinson123pro left the game
-[01:36:25] [Server thread/INFO]: [Not Secure] <DarkJunior> DAKCR mata a los endermans de afura de la forma mas segura posible bro
-[01:36:34] [Server thread/INFO]: [Not Secure] <DarkJunior> sino edinson muere xd
-[01:36:48] [Server thread/INFO]: [Not Secure] <DAKCR> que fo?
-[01:37:30] [Server thread/INFO]: [Not Secure] <DAKCR> ya lo toy haciendo
-[01:38:08] [Server thread/INFO]: edinson123pro[/100.87.157.5:51184] logged in with entity id 11471 at (-7.880118390388918, 1.0, 302.75554918300924)
-[01:38:08] [Server thread/INFO]: edinson123pro joined the game
-[01:38:15] [Server thread/INFO]: [Not Secure] <edinson123pro> uff
-[01:38:17] [Server thread/INFO]: [Not Secure] <edinson123pro> gracias
-[01:38:27] [Server thread/INFO]: [Not Secure] <DAKCR> ????
-[01:38:34] [Server thread/INFO]: [Not Secure] <DAKCR> NO enterder que paso
-[01:38:46] [Server thread/INFO]: [Not Secure] <edinson123pro> dos endermans se escparon y casi me matan en el puente xd
-[01:41:41] [Server thread/INFO]: [Not Secure] <DAKCR> hermano si me caigo me caigo
-[01:41:52] [Server thread/INFO]: [Not Secure] <edinson123pro> ni loco
-[01:41:53] [Server thread/INFO]: [Not Secure] <DarkJunior> si caes mueres de una
-[01:42:00] [Server thread/INFO]: [Not Secure] <DAKCR> por eso
-[01:42:07] [Server thread/INFO]: [Not Secure] <DAKCR> a tomar por culo
-[01:42:13] [Server thread/INFO]: [Not Secure] <DarkJunior> si
-[01:42:25] [Server thread/INFO]: [Not Secure] <DAKCR> ya deje mis cosas en el enderchets
-[01:45:36] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[01:45:36] [Server thread/INFO]: edinson123pro left the game
-[01:45:42] [Server thread/INFO]: edinson123pro[/100.87.157.5:51401] logged in with entity id 15331 at (-1516.374870973782, 63.0, 370.4969754141353)
-[01:45:42] [Server thread/INFO]: edinson123pro joined the game
-[01:46:53] [Server thread/INFO]: [Not Secure] <edinson123pro> DAKCR
-[01:46:57] [Server thread/INFO]: [Not Secure] <DAKCR> LADRA
-[01:47:11] [Server thread/INFO]: [Not Secure] <edinson123pro> me ayudas a romper toda la aldea? hare todo la aldea de la hoja de naruta
-[01:47:14] [Server thread/INFO]: [Not Secure] <edinson123pro> naruto
-[01:47:38] [Server thread/INFO]: [Not Secure] <DAKCR> :V
-[01:47:50] [Server thread/INFO]: [Not Secure] <DAKCR> es neta?
-[01:47:54] [Server thread/INFO]: [Not Secure] <edinson123pro> si
-[01:47:59] [Server thread/INFO]: [Not Secure] <DAKCR> TU ESTAS DE mente}
-[01:47:59] [Server thread/INFO]: [Not Secure] <edinson123pro> preeguntale a eddy
-[01:48:12] [Server thread/INFO]: [Not Secure] <edinson123pro> ya hice cosas peores jajaja
-[01:48:37] [Server thread/INFO]: [Not Secure] <DAKCR> :v
-[01:56:01] [Server thread/INFO]: DAKCR has made the advancement [Take Aim]
-[01:57:05] [Server thread/INFO]: [DarkJunior: The difficulty has been set to Hard]
-[02:03:20] [Server thread/INFO]: [edinson123pro: Teleported edinson123pro to DarkJunior]
-[02:03:25] [Server thread/INFO]: [Not Secure] <DarkJunior> bro?
-[02:03:54] [Server thread/INFO]: [Not Secure] <DAKCR> que
-[02:04:10] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[02:04:10] [Server thread/INFO]: edinson123pro left the game
-[02:04:23] [Server thread/INFO]: edinson123pro[/100.87.157.5:51897] logged in with entity id 24867 at (-1513.6210245610566, 62.0, 387.7990376001448)
-[02:04:23] [Server thread/INFO]: edinson123pro joined the game
-[02:07:39] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[02:07:39] [Server thread/INFO]: edinson123pro left the game
-[02:07:52] [Server thread/INFO]: edinson123pro[/100.87.157.5:52004] logged in with entity id 26102 at (-1513.8327066907057, 63.0, 378.97302338992665)
-[02:07:52] [Server thread/INFO]: edinson123pro joined the game
-[02:11:57] [Server thread/INFO]: [Not Secure] <edinson123pro> 7 coras
-[02:12:03] [Server thread/INFO]: [Not Secure] <edinson123pro> quita ese arco
-[02:12:09] [Server thread/INFO]: [Not Secure] <DAKCR> xD
-[02:12:39] [Server thread/INFO]: DarkJunior has reached the goal [Beaconator]
-[02:13:12] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[02:13:12] [Server thread/INFO]: edinson123pro left the game
-[02:13:19] [Server thread/INFO]: [Not Secure] <DAKCR> bzdkjbv
-[02:13:24] [Server thread/INFO]: [Not Secure] <DAKCR> ese edinson
-[02:13:33] [Server thread/INFO]: [Not Secure] <DAKCR> es la cgd
-[02:13:42] [Server thread/INFO]: [Not Secure] <DAKCR> oe
-[02:13:50] [Server thread/INFO]: [Not Secure] <DAKCR> abajo hay agua?
-[02:13:54] [Server thread/INFO]: [Not Secure] <DarkJunior> no
-[02:13:58] [Server thread/INFO]: [Not Secure] <DAKCR> heuGFUGSkjjkbskugvbiyBUKJHA
-[02:14:04] [Server thread/INFO]: [Not Secure] <DAKCR> ese edinson es la cgd
-[02:14:09] [Server thread/INFO]: [Not Secure] <DAKCR> me da risa
-[02:14:09] [Server thread/INFO]: [Not Secure] <DarkJunior> sisi jajajja
-[02:14:16] [Server thread/INFO]: edinson123pro[/100.87.157.5:52189] logged in with entity id 28181 at (-1601.699999988079, 36.14441316887841, 409.69976609853705)
-[02:14:16] [Server thread/INFO]: edinson123pro joined the game
-[02:14:19] [Server thread/INFO]: [Not Secure] <DAKCR> ya es como la 5ta vez del dia
-[02:14:56] [Server thread/INFO]: [Not Secure] <DAKCR> bay
-[02:17:40] [Server thread/INFO]: [Not Secure] <DarkJunior> pelea afuera
-[02:19:10] [Server thread/INFO]: edinson123pro was blown up by Creeper
-[02:20:26] [Server thread/INFO]: DAKCR was slain by DarkJunior
-[02:20:46] [Server thread/INFO]: [Not Secure] <DarkJunior> buena malow
-[02:21:18] [Server thread/INFO]: [Not Secure] <DAKCR> cuando no aiga lluvia mechamos de nuevo
-[02:21:20] [Server thread/INFO]: [Not Secure] <DAKCR> gey
-[02:21:23] [Server thread/INFO]: [Not Secure] <DarkJunior> jajaja
-[02:22:43] [Server thread/INFO]: [Not Secure] <DAKCR> ven p edinson
-[02:22:47] [Server thread/INFO]: [Not Secure] <DAKCR> chivo
-[02:22:54] [Server thread/INFO]: [Not Secure] <DarkJunior> esta afk pera
-[02:23:05] [Server thread/INFO]: [Not Secure] <DAKCR> te mecho con armadura toda rota y sin escudo
-[02:23:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1589, y=69, z=412} jb{x=-1587, y=70, z=413}
-[02:23:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1589, y=69, z=412} jb{x=-1587, y=70, z=413}
-[02:24:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1601, y=68, z=425} jb{x=-1614, y=66, z=425}
-[02:24:11] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1601, y=68, z=425} jb{x=-1614, y=66, z=425}
-[02:25:17] [Server thread/INFO]: [Not Secure] <DAKCR> c edinson
-[02:25:21] [Server thread/INFO]: [Not Secure] <DarkJunior> xd
-[02:25:26] [Server thread/INFO]: [Not Secure] <DAKCR> sube p mrd
-[02:25:49] [Server thread/INFO]: [Not Secure] <DarkJunior> deja que consiga aspecto igneo
-[02:26:13] [Server thread/INFO]: [Not Secure] <DarkJunior> y una espada sin empuje xd
-[02:26:24] [Server thread/INFO]: [Not Secure] <DAKCR> te imaginas que no tenga pico}
-[02:26:34] [Server thread/INFO]: [Not Secure] <DarkJunior> si tiene
-[02:26:38] [Server thread/INFO]: [Not Secure] <DAKCR> a
-[02:26:39] [Server thread/INFO]: [Not Secure] <DarkJunior> no bueno pero tiene
-[02:26:55] [Server thread/INFO]: [Not Secure] <DarkJunior> de la nada
-[02:27:08] [Server thread/INFO]: [Not Secure] <DarkJunior> me voy AFK yo tambien
-[02:27:08] [Server thread/INFO]: [Not Secure] <DAKCR> no me juzgues tengo una armadura de mrx
-[02:28:35] [Server thread/INFO]: DAKCR lost connection: Disconnected
-[02:28:35] [Server thread/INFO]: DAKCR left the game
-[02:30:03] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[02:30:03] [Server thread/INFO]: edinson123pro left the game
-[02:36:14] [Server thread/INFO]: heeenry_[/100.78.238.8:51691] logged in with entity id 35943 at (-1461.3400998515287, 63.0, 435.84517962625694)
-[02:36:14] [Server thread/INFO]: heeenry_ joined the game
-[02:39:40] [Server thread/INFO]: heeenry_ lost connection: Disconnected
-[02:39:40] [Server thread/INFO]: heeenry_ left the game
-[02:48:20] [Server thread/INFO]: DAKCR[/100.68.160.27:64409] logged in with entity id 39295 at (-1512.9695479569868, 63.875, 378.5331010824363)
-[02:48:20] [Server thread/INFO]: DAKCR joined the game
-[02:49:19] [Server thread/INFO]: [Not Secure] <DAKCR> edinson onta
+[02:33:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:33:21] [ServerMain/INFO]: Loaded 1407 recipes
+[02:33:21] [ServerMain/INFO]: Loaded 1520 advancements
+[02:33:21] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[02:33:21] [Server thread/INFO]: Loading properties
+[02:33:21] [Server thread/INFO]: Default game type: SURVIVAL
+[02:33:21] [Server thread/INFO]: Generating keypair
+[02:33:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:33:22] [Server thread/INFO]: Using epoll channel type
+[02:33:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:33:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:33:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:33:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:33:22] [Server thread/INFO]: Preparing level "world"
+[02:33:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:33:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:33:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:33:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:33:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:33:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:33:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:33:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:33:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:33:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:33:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:33:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:33:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:33:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:33:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:33:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:33:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:33:30] [Server thread/INFO]: Time elapsed: 7793 ms
+[02:33:30] [Server thread/INFO]: Done (8.250s)! For help, type "help"
+[02:33:41] [Server thread/INFO]: DAKCR[/100.68.160.27:56764] logged in with entity id 17 at (-1433.6481249548588, 124.5, 461.0017841276823)
+[02:33:41] [Server thread/INFO]: DAKCR joined the game
+[02:33:50] [Server thread/INFO]: DarkJunior[/100.68.250.116:53482] logged in with entity id 219 at (-1439.4865306417203, 124.5, 460.279814031318)
+[02:33:51] [Server thread/INFO]: DarkJunior joined the game
+[02:34:11] [Server thread/INFO]: edinson123pro[/100.87.157.5:64885] logged in with entity id 407 at (-1613.300000011921, 49.0, 426.3456286892696)
+[02:34:12] [Server thread/INFO]: edinson123pro joined the game
+[02:34:32] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[02:34:32] [Server thread/INFO]: edinson123pro left the game
+[02:34:38] [Server thread/INFO]: edinson123pro[/100.87.157.5:64916] logged in with entity id 627 at (-1613.5220735349706, 52.0, 426.69999998807907)
+[02:34:38] [Server thread/INFO]: edinson123pro joined the game
+[02:35:32] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[02:35:32] [Server thread/INFO]: edinson123pro left the game
+[02:35:39] [Server thread/INFO]: edinson123pro[/100.87.157.5:64953] logged in with entity id 965 at (-1601.3142146213988, 68.0, 417.4910114122949)
+[02:35:39] [Server thread/INFO]: edinson123pro joined the game
+[02:35:56] [Server thread/INFO]: [Not Secure] <DAKCR> por que ta que sale y entre
+[02:36:05] [Server thread/INFO]: [Not Secure] <DarkJunior> su pc es mala
+[02:36:06] [Server thread/INFO]: [Not Secure] <edinson123pro> me va mal el sv
+[02:36:19] [Server thread/INFO]: [Not Secure] <DAKCR> sale tu cod?
+[02:36:25] [Server thread/INFO]: [Not Secure] <DarkJunior> al tipo le va mal y culpa al server
+[02:37:32] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[02:37:32] [Server thread/INFO]: edinson123pro left the game
+[02:37:38] [Server thread/INFO]: edinson123pro[/100.87.157.5:65023] logged in with entity id 1709 at (-1533.699999988079, 64.0, 424.69999998807907)
+[02:37:38] [Server thread/INFO]: edinson123pro joined the game
+[02:38:49] [Server thread/INFO]: edinson123pro lost connection: You logged in from another location
+[02:38:49] [Server thread/INFO]: edinson123pro left the game
+[02:38:49] [Server thread/WARN]: handleDisconnection() called twice
+[02:38:50] [Server thread/INFO]: edinson123pro[/100.87.157.5:62650] logged in with entity id 2043 at (-1590.8608012188638, 70.25220334025373, 397.83651722328636)
+[02:38:50] [Server thread/INFO]: edinson123pro joined the game
+[02:39:10] [Server thread/INFO]: [Not Secure] <DAKCR> como se ve el time de la posion
+[02:39:17] [Server thread/INFO]: [Not Secure] <DarkJunior> que haces enfgermooo
+[02:39:26] [Server thread/INFO]: [Not Secure] <DAKCR> que
+[02:40:12] [Server thread/INFO]: [Not Secure] <DarkJunior> verdaderamente eres enfermo
+[02:40:19] [Server thread/INFO]: [Not Secure] <DarkJunior> porque haces eso
+[02:40:27] [Server thread/INFO]: [Not Secure] <DAKCR> necesito tokens
+[02:40:34] [Server thread/INFO]: [Not Secure] <DarkJunior> en otra aldea
+[02:40:41] [Server thread/INFO]: [Not Secure] <DarkJunior> no donde hay granjas
+[02:41:39] [Server thread/INFO]: [Not Secure] <DAKCR> a tomar por culo weon
+[02:41:48] [Server thread/INFO]: [Not Secure] <DAKCR> luego me quitan el heroe
+[02:42:20] [Server thread/INFO]: DAKCR has completed the challenge [Hero of the Village]
+[02:42:20] [Server thread/INFO]: DarkJunior has completed the challenge [Hero of the Village]
+[02:42:26] [Server thread/INFO]: [Not Secure] <DarkJunior> enfermo
+[02:42:36] [Server thread/INFO]: [Not Secure] <DAKCR> y los convocadores?
+[02:42:44] [Server thread/INFO]: [Not Secure] <DarkJunior> era de nivel 1
+[02:42:46] [Server thread/INFO]: [Not Secure] <DarkJunior> ?
+[02:42:55] [Server thread/INFO]: [Not Secure] <DAKCR> creo quesi
+[02:43:01] [Server thread/INFO]: [Not Secure] <DarkJunior> si vas a hacer invaciones hazlo en otra aldea
+[02:43:01] [Server thread/INFO]: [Not Secure] <DAKCR> jsjs
