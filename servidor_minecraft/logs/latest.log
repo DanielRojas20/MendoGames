@@ -46,3 +46,164 @@
 [18:57:17] [Server thread/INFO]: edinson123pro joined the game
 [18:57:49] [Server thread/INFO]: DarkJunior[/100.68.250.116:55443] logged in with entity id 2289 at (-1529.659662881855, 61.5625, 386.273783048517)
 [18:57:49] [Server thread/INFO]: DarkJunior joined the game
+[19:06:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[19:08:25] [Server thread/WARN]: DarkJunior moved wrongly!
+[19:11:14] [Server thread/WARN]: VICTOR moved wrongly!
+[19:17:23] [Server thread/INFO]: edinson123pro was shot by VICTOR
+[19:22:47] [Server thread/WARN]: VICTOR moved wrongly!
+[19:23:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1792, y=91, z=364} jb{x=-1792, y=89, z=362}
+[19:23:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1809, y=98, z=349} jb{x=-1809, y=97, z=350}
+[19:23:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1809, y=98, z=349} jb{x=-1809, y=97, z=350}
+[19:24:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1794, y=89, z=351} jb{x=-1795, y=89, z=351}
+[19:24:10] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1796, y=93, z=364} jb{x=-1796, y=93, z=363}
+[19:24:10] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1796, y=93, z=364} jb{x=-1796, y=93, z=363}
+[19:24:10] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1796, y=93, z=364} jb{x=-1796, y=93, z=363}
+[19:28:51] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1868, y=104, z=341} jb{x=-1868, y=104, z=340}
+[19:28:52] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1868, y=104, z=341} jb{x=-1868, y=104, z=340}
+[19:30:07] [Server thread/WARN]: VICTOR moved wrongly!
+[19:30:07] [Server thread/WARN]: VICTOR moved wrongly!
+[19:30:30] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1835, y=105, z=365} jb{x=-1833, y=103, z=368}
+[19:30:44] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1839, y=111, z=353} jb{x=-1839, y=111, z=352}
+[19:31:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1839, y=101, z=369} jb{x=-1839, y=102, z=368}
+[19:31:14] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1839, y=92, z=386} jb{x=-1839, y=89, z=388}
+[19:31:18] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1839, y=83, z=391} jb{x=-1839, y=83, z=390}
+[19:31:30] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1863, y=105, z=332} jb{x=-1862, y=105, z=332}
+[19:31:30] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1863, y=105, z=332} jb{x=-1862, y=105, z=332}
+[19:31:32] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1864, y=109, z=329} jb{x=-1864, y=107, z=330}
+[19:31:32] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1864, y=109, z=329} jb{x=-1864, y=107, z=330}
+[19:31:48] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1803, y=95, z=359} jb{x=-1804, y=95, z=359}
+[19:31:55] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1867, y=106, z=352} jb{x=-1868, y=104, z=350}
+[19:31:55] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1868, y=104, z=351} jb{x=-1868, y=103, z=351}
+[19:31:55] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1868, y=104, z=351} jb{x=-1868, y=103, z=351}
+[19:31:55] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1868, y=104, z=351} jb{x=-1868, y=103, z=351}
+[19:31:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1868, y=104, z=351} jb{x=-1868, y=103, z=351}
+[19:31:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1868, y=104, z=351} jb{x=-1868, y=103, z=351}
+[19:32:26] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1806, y=94, z=332} jb{x=-1806, y=94, z=333}
+[19:32:26] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1806, y=94, z=332} jb{x=-1806, y=94, z=333}
+[19:32:26] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1806, y=94, z=332} jb{x=-1806, y=94, z=333}
+[19:32:26] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1806, y=94, z=332} jb{x=-1806, y=94, z=333}
+[19:32:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1806, y=94, z=332} jb{x=-1806, y=94, z=333}
+[19:32:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1806, y=94, z=332} jb{x=-1806, y=94, z=333}
+[19:32:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1806, y=94, z=332} jb{x=-1806, y=94, z=333}
+[19:32:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1806, y=94, z=332} jb{x=-1806, y=94, z=333}
+[19:32:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1806, y=94, z=332} jb{x=-1806, y=94, z=333}
+[19:32:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1806, y=94, z=332} jb{x=-1806, y=94, z=333}
+[19:32:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1806, y=94, z=332} jb{x=-1806, y=94, z=333}
+[19:32:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1806, y=94, z=332} jb{x=-1806, y=94, z=333}
+[19:32:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1806, y=94, z=332} jb{x=-1806, y=94, z=333}
+[19:32:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1806, y=94, z=332} jb{x=-1806, y=94, z=333}
+[19:32:34] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1796, y=91, z=340} jb{x=-1797, y=90, z=340}
+[19:32:34] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1798, y=91, z=339} jb{x=-1797, y=90, z=340}
+[19:32:54] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1792, y=90, z=352} jb{x=-1792, y=86, z=353}
+[19:33:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1862, y=110, z=348} jb{x=-1862, y=108, z=349}
+[19:33:04] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1862, y=110, z=348} jb{x=-1862, y=108, z=349}
+[19:33:16] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1805, y=93, z=359} jb{x=-1806, y=94, z=359}
+[19:33:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1794, y=87, z=341} jb{x=-1794, y=88, z=340}
+[19:33:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1794, y=87, z=341} jb{x=-1794, y=88, z=340}
+[19:33:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1794, y=87, z=341} jb{x=-1794, y=88, z=340}
+[19:33:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1794, y=87, z=341} jb{x=-1794, y=88, z=340}
+[19:33:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1794, y=87, z=341} jb{x=-1794, y=88, z=340}
+[19:34:57] [Server thread/INFO]: edinson123pro was shot by VICTOR
+[19:36:38] [Server thread/WARN]: DarkJunior moved too quickly! -18.058514105278164,-2.9839425652250355,1.2836135902517185
+[19:37:09] [Server thread/WARN]: DarkJunior moved too quickly! 7.2559675494221665,0.8046422359329419,15.820570712111362
+[19:37:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[19:45:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1827, y=107, z=342} jb{x=-1829, y=106, z=342}
+[19:45:06] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1825, y=104, z=337} jb{x=-1826, y=104, z=337}
+[19:45:06] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1825, y=104, z=337} jb{x=-1826, y=104, z=337}
+[19:45:06] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1825, y=104, z=337} jb{x=-1826, y=104, z=337}
+[19:45:15] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1831, y=108, z=334} jb{x=-1831, y=108, z=336}
+[19:45:15] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1830, y=107, z=335} jb{x=-1830, y=106, z=335}
+[19:45:15] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1830, y=107, z=335} jb{x=-1830, y=106, z=335}
+[19:45:15] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1830, y=107, z=335} jb{x=-1830, y=106, z=335}
+[19:45:27] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1833, y=108, z=330} jb{x=-1832, y=108, z=332}
+[19:45:38] [Server thread/WARN]: VICTOR moved wrongly!
+[19:45:40] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1790, y=86, z=369} jb{x=-1790, y=85, z=366}
+[19:45:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1854, y=108, z=326} jb{x=-1853, y=106, z=327}
+[19:46:01] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1846, y=106, z=328} jb{x=-1845, y=105, z=329}
+[19:46:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1872, y=106, z=329} jb{x=-1872, y=106, z=328}
+[19:46:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1872, y=106, z=329} jb{x=-1872, y=106, z=328}
+[19:46:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1869, y=107, z=333} jb{x=-1870, y=107, z=334}
+[19:46:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1869, y=107, z=333} jb{x=-1870, y=107, z=334}
+[19:46:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1869, y=107, z=333} jb{x=-1870, y=107, z=334}
+[19:46:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1869, y=107, z=333} jb{x=-1870, y=107, z=334}
+[19:46:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1869, y=107, z=333} jb{x=-1870, y=107, z=334}
+[19:46:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1874, y=105, z=337} jb{x=-1875, y=106, z=335}
+[19:46:47] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1873, y=103, z=339} jb{x=-1872, y=103, z=339}
+[19:46:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1877, y=105, z=337} jb{x=-1878, y=102, z=339}
+[19:47:06] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1824, y=100, z=353} jb{x=-1824, y=99, z=354}
+[19:47:10] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1882, y=98, z=337} jb{x=-1882, y=98, z=334}
+[19:47:12] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1879, y=97, z=331} jb{x=-1879, y=97, z=332}
+[19:47:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1869, y=101, z=319} jb{x=-1869, y=99, z=319}
+[19:47:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1869, y=101, z=319} jb{x=-1869, y=99, z=319}
+[19:47:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1869, y=101, z=319} jb{x=-1869, y=99, z=319}
+[19:48:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1820, y=102, z=328} jb{x=-1821, y=102, z=327}
+[19:48:43] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1822, y=100, z=350} jb{x=-1822, y=101, z=351}
+[19:48:45] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1822, y=101, z=364} jb{x=-1822, y=100, z=363}
+[19:49:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1814, y=100, z=344} jb{x=-1812, y=101, z=348}
+[19:49:29] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1814, y=100, z=344} jb{x=-1812, y=101, z=348}
+[19:49:50] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1822, y=102, z=326} jb{x=-1823, y=102, z=326}
+[19:50:00] [Server thread/WARN]: VICTOR moved wrongly!
+[19:50:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1830, y=107, z=345} jb{x=-1831, y=108, z=345}
+[19:50:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1830, y=107, z=345} jb{x=-1831, y=108, z=345}
+[19:50:33] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1830, y=107, z=345} jb{x=-1831, y=108, z=345}
+[19:50:35] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1863, y=109, z=324} jb{x=-1860, y=106, z=326}
+[19:50:42] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1829, y=107, z=355} jb{x=-1829, y=106, z=356}
+[19:50:59] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1862, y=106, z=323} jb{x=-1863, y=106, z=320}
+[19:51:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1865, y=105, z=320} jb{x=-1865, y=105, z=321}
+[19:51:23] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1835, y=104, z=365} jb{x=-1835, y=104, z=364}
+[19:51:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1857, y=102, z=367} jb{x=-1857, y=103, z=368}
+[19:51:39] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1857, y=102, z=367} jb{x=-1857, y=103, z=368}
+[19:51:46] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1854, y=101, z=370} jb{x=-1854, y=101, z=369}
+[19:51:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1865, y=105, z=358} jb{x=-1866, y=105, z=359}
+[19:51:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1865, y=105, z=358} jb{x=-1866, y=105, z=359}
+[19:52:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1846, y=109, z=359} jb{x=-1847, y=109, z=359}
+[19:52:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1846, y=109, z=359} jb{x=-1847, y=109, z=359}
+[19:52:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1846, y=109, z=359} jb{x=-1847, y=109, z=359}
+[19:52:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1846, y=109, z=359} jb{x=-1847, y=109, z=359}
+[19:52:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1846, y=109, z=359} jb{x=-1847, y=109, z=359}
+[19:52:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1846, y=109, z=359} jb{x=-1847, y=109, z=359}
+[19:52:13] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1846, y=109, z=359} jb{x=-1847, y=109, z=359}
+[19:54:00] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1879, y=103, z=344} jb{x=-1879, y=102, z=343}
+[19:54:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1836, y=110, z=357} jb{x=-1836, y=109, z=357}
+[19:54:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1835, y=110, z=357} jb{x=-1836, y=109, z=357}
+[19:54:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1835, y=110, z=356} jb{x=-1836, y=109, z=357}
+[19:54:41] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-1835, y=110, z=355} jb{x=-1836, y=109, z=357}
+[19:54:42] [Server thread/INFO]: edinson123pro was burned to a crisp while fighting VICTOR
+[19:54:47] [Server thread/INFO]: [edinson123pro: Banned VICTOR: Banned by an operator.]
+[19:54:47] [Server thread/INFO]: VICTOR lost connection: You are banned from this server
+[19:54:47] [Server thread/INFO]: VICTOR left the game
+[19:56:24] [Server thread/INFO]: [Not Secure] <DarkJunior> aqui esta tu espada
+[19:56:38] [Server thread/INFO]: [Not Secure] <DarkJunior> aqui esta tu espada
+[19:56:39] [Server thread/INFO]: [Not Secure] <DarkJunior> aqui esta tu espada
+[19:56:44] [Server thread/INFO]: [Not Secure] <edinson123pro> gg
+[19:56:51] [Server thread/INFO]: [Not Secure] <DarkJunior> comprate armor
+[19:56:52] [Server thread/INFO]: DarkJunior lost connection: Disconnected
+[19:56:52] [Server thread/INFO]: DarkJunior left the game
+[19:56:55] [Server thread/INFO]: edinson123pro lost connection: Disconnected
+[19:56:55] [Server thread/INFO]: edinson123pro left the game
