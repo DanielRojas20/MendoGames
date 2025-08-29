@@ -1,106 +1,48 @@
-[04:11:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:11:51] [ServerMain/INFO]: Loaded 1407 recipes
-[04:11:51] [ServerMain/INFO]: Loaded 1520 advancements
-[04:11:51] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[04:11:51] [Server thread/INFO]: Loading properties
-[04:11:51] [Server thread/INFO]: Default game type: SURVIVAL
-[04:11:51] [Server thread/INFO]: Generating keypair
-[04:11:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:11:52] [Server thread/INFO]: Using epoll channel type
-[04:11:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:11:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:11:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:11:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:11:52] [Server thread/INFO]: Preparing level "world"
-[04:11:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:12:02] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:12:02] [Server thread/INFO]: Time elapsed: 9644 ms
-[04:12:02] [Server thread/INFO]: Done (10.217s)! For help, type "help"
-[04:12:02] [Server thread/INFO]: edinson123pro (/100.87.157.5:56361) lost connection: Disconnected
-[04:12:29] [Server thread/WARN]: UUID of added entity already exists: cuf['Librarian'/106, l='ServerLevel[world]', x=-1527.17, y=61.00, z=381.42]
-[04:12:29] [Server thread/WARN]: UUID of added entity already exists: cuf['Toolsmith'/107, l='ServerLevel[world]', x=-1527.03, y=61.88, z=382.21]
-[04:12:29] [Server thread/WARN]: UUID of added entity already exists: cuf['Fletcher'/108, l='ServerLevel[world]', x=-1529.54, y=61.00, z=382.89]
-[04:12:29] [Server thread/WARN]: UUID of added entity already exists: cuf['Librarian'/111, l='ServerLevel[world]', x=-1533.19, y=61.00, z=383.64]
-[04:12:29] [Server thread/INFO]: edinson123pro[/100.87.157.5:58729] logged in with entity id 15 at (-1522.0010534405728, 64.9375, 380.2579276491502)
-[04:12:29] [Server thread/INFO]: edinson123pro joined the game
-[04:12:30] [Server thread/INFO]: VICTOR[/100.84.205.84:52990] logged in with entity id 151 at (-1540.1963715314075, 62.9375, 378.83161334322)
-[04:12:30] [Server thread/INFO]: VICTOR joined the game
-[04:13:56] [Server thread/INFO]: DarkJunior[/100.68.250.116:64015] logged in with entity id 786 at (-1476.7873440100477, 64.0, 364.3110715288882)
-[04:13:56] [Server thread/INFO]: DarkJunior joined the game
-[04:14:01] [Server thread/INFO]: [Not Secure] <DarkJunior> bro
-[04:14:04] [Server thread/INFO]: [Not Secure] <DarkJunior> dan asco
-[04:14:38] [Server thread/INFO]: [VICTOR: The difficulty has been set to Hard]
-[04:15:12] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[04:15:12] [Server thread/INFO]: edinson123pro left the game
-[04:15:31] [Server thread/INFO]: edinson123pro[/100.87.157.5:49972] logged in with entity id 1451 at (-1535.5651646746971, 63.466347503721714, 370.0422867042641)
-[04:15:31] [Server thread/INFO]: edinson123pro joined the game
-[04:15:56] [Server thread/INFO]: edinson123pro was slain by Vex
-[04:16:49] [Server thread/INFO]: [Not Secure] <DarkJunior> dañaron la granja
-[04:17:01] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[04:17:01] [Server thread/INFO]: edinson123pro left the game
-[04:18:49] [Server thread/INFO]: [Not Secure] <DarkJunior> que asco
-[04:18:52] [Server thread/INFO]: [Not Secure] <VICTOR> q paso?
-[04:18:55] [Server thread/INFO]: VICTOR has completed the challenge [Hero of the Village]
-[04:19:00] [Server thread/INFO]: [Not Secure] <VICTOR> dime
-[04:19:05] [Server thread/INFO]: [Not Secure] <DarkJunior> murieron
-[04:19:09] [Server thread/INFO]: [Not Secure] <VICTOR> quenes?
-[04:19:12] [Server thread/INFO]: [Not Secure] <DarkJunior> los de la granja de hierro
-[04:19:14] [Server thread/INFO]: [Not Secure] <VICTOR> los zmbies de heirr0?
-[04:19:48] [Server thread/INFO]: [Not Secure] <DarkJunior> el zombie que no tiene nametag vivio mas
-[04:20:13] [Server thread/INFO]: [Not Secure] <DarkJunior> el zombie que no tiene nametag vivio mas
-[04:20:21] [Server thread/INFO]: [Not Secure] <VICTOR> tienes cofre del end para mi=
-[04:20:30] [Server thread/INFO]: [Not Secure] <VICTOR> dame
-[04:20:42] [Server thread/INFO]: [Not Secure] <DarkJunior> porque dupean
-[04:21:31] [Server thread/INFO]: [Not Secure] <DarkJunior> y eso que vi que es?
-[04:21:49] [Server thread/INFO]: [Not Secure] <DarkJunior> mmm
-[04:25:24] [Server thread/INFO]: edinson123pro[/100.87.157.5:49163] logged in with entity id 4415 at (-1519.871913409285, 62.9375, 375.620180602063)
-[04:25:24] [Server thread/INFO]: edinson123pro joined the game
-[04:26:19] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[04:26:19] [Server thread/INFO]: edinson123pro left the game
-[04:26:35] [Server thread/INFO]: edinson123pro[/100.87.157.5:51721] logged in with entity id 4700 at (-1515.1579402663615, 63.92159999847412, 380.69999998807907)
-[04:26:35] [Server thread/INFO]: edinson123pro joined the game
-[04:26:51] [Server thread/INFO]: DarkJunior lost connection: Kicked by an operator
-[04:26:51] [Server thread/INFO]: DarkJunior left the game
-[04:26:51] [Server thread/INFO]: [edinson123pro: Kicked DarkJunior: Kicked by an operator]
-[04:26:51] [Server thread/WARN]: handleDisconnection() called twice
-[04:26:56] [Server thread/INFO]: DarkJunior[/100.68.250.116:64075] logged in with entity id 4782 at (-1538.7765164748705, 63.432700877005914, 381.58125657216505)
-[04:26:56] [Server thread/INFO]: DarkJunior joined the game
-[04:27:59] [Server thread/INFO]: [Not Secure] <edinson123pro> que hacen wtf
-[04:29:08] [Server thread/INFO]: DarkJunior has reached the goal [Postmortal]
-[04:29:25] [Server thread/INFO]: [Not Secure] <DarkJunior> se me rompio el casco
-[04:30:35] [Server thread/INFO]: [Not Secure] <DarkJunior> que cagones que son
-[04:30:39] [Server thread/INFO]: [Not Secure] <VICTOR> a csaa
-[04:30:44] [Server thread/INFO]: [Not Secure] <VICTOR> 1v1 se va corriendo 3 veces
-[04:31:08] [Server thread/INFO]: [Not Secure] <DarkJunior> si bro que eres el mejor ya lo sabemos
-[04:31:11] [Server thread/INFO]: [Not Secure] <VICTOR> ez
-[04:31:23] [Server thread/INFO]: [Not Secure] <DarkJunior> algo mas que quieras presumir
-[04:31:24] [Server thread/INFO]: [Not Secure] <VICTOR> ahora arreglar la aldea xd
-[04:31:32] [Server thread/INFO]: [Not Secure] <VICTOR> habla el ego en persona
-[04:32:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[04:34:17] [Server thread/INFO]: [Not Secure] <VICTOR> te regalo un casco?
-[04:34:29] [Server thread/INFO]: [Not Secure] <DarkJunior> no quiero de tu caridad rey del mundo
-[04:34:35] [Server thread/INFO]: [Not Secure] <VICTOR> de la nada
-[04:34:40] [Server thread/INFO]: [Not Secure] <VICTOR> one pice
-[04:34:51] [Server thread/INFO]: [Not Secure] <VICTOR> bueno afk
-[04:34:52] [Server thread/INFO]: VICTOR lost connection: Disconnected
-[04:34:52] [Server thread/INFO]: VICTOR left the game
-[04:35:49] [Server thread/INFO]: edinson123pro lost connection: Disconnected
-[04:35:49] [Server thread/INFO]: edinson123pro left the game
+[18:46:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:46:24] [ServerMain/INFO]: Loaded 1407 recipes
+[18:46:24] [ServerMain/INFO]: Loaded 1520 advancements
+[18:46:24] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[18:46:24] [Server thread/INFO]: Loading properties
+[18:46:24] [Server thread/INFO]: Default game type: SURVIVAL
+[18:46:24] [Server thread/INFO]: Generating keypair
+[18:46:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:46:24] [Server thread/INFO]: Using epoll channel type
+[18:46:24] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:46:24] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:46:24] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:46:24] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:46:25] [Server thread/INFO]: Preparing level "world"
+[18:46:25] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:46:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:46:33] [Server thread/INFO]: Time elapsed: 7457 ms
+[18:46:33] [Server thread/INFO]: Done (8.011s)! For help, type "help"
+[18:47:12] [Server thread/INFO]: VICTOR[/100.84.205.84:53684] logged in with entity id 17 at (-4.613552120709344, 1.0, 360.46517933422604)
+[18:47:12] [Server thread/INFO]: VICTOR joined the game
+[18:53:47] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[18:54:29] [Server thread/INFO]: [VICTOR: Applied enchantment Sharpness V to VICTOR's item]
+[18:54:41] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[18:54:47] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[18:54:55] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[18:55:50] [Server thread/INFO]: [VICTOR: Applied enchantment Feather Falling IV to VICTOR's item]
+[18:56:20] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[18:56:36] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[18:56:45] [Server thread/INFO]: [VICTOR: Set own game mode to Creative Mode]
+[18:56:50] [Server thread/INFO]: [VICTOR: Set own game mode to Survival Mode]
+[18:57:17] [Server thread/INFO]: edinson123pro[/100.87.157.5:59415] logged in with entity id 1797 at (-1.3928772967211278, 1.0, 361.22586390815604)
+[18:57:17] [Server thread/INFO]: edinson123pro joined the game
+[18:57:49] [Server thread/INFO]: DarkJunior[/100.68.250.116:55443] logged in with entity id 2289 at (-1529.659662881855, 61.5625, 386.273783048517)
+[18:57:49] [Server thread/INFO]: DarkJunior joined the game
